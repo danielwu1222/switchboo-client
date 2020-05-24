@@ -1,0 +1,489 @@
+body {
+    font-family: oscine, sans-serif !Important;
+}
+
+
+
+#SecondPreviousPostcode, #PreviousPostcode {
+    text-transform: uppercase;
+}
+
+.modal-header {
+    border-bottom: none !Important;
+}
+
+p {
+    font-weight: 500;
+}
+
+.divider {
+    margin-bottom: 0px !Important;
+}
+.s-t-c {
+    color: #ff0b9a;
+    margin-left: 0.7rem;
+}
+
+.s-t-c:hover {
+    color: #ff0b9a;
+    border-bottom-style: solid;
+    border-bottom-color: #ff0b9a;
+    border-bottom-width: 2px;
+    text-decoration: none !important;
+}
+
+.btn-link:hover {
+    color: #0056b3;
+    text-decoration: none;
+}
+
+.btn-link.focus, .btn-link:focus {
+    text-decoration: none;
+    box-shadow: none;
+}
+
+.card {
+    border: none !Important; 
+    border-radius: none !Important;
+}
+
+.card-header:first-child {
+    border-radius: 0px !important;
+}
+
+.card-header {
+    padding: 0px !important;
+    margin-bottom: 0;
+    background-color: transparent;
+    border-bottom: transparent;
+    border-radius: 0px !important;
+}
+
+
+.fa-chevron-down {
+    color: #ff0a9a;
+    margin-left: 10px;
+    margin-bottom: -15px;
+}
+
+.table td, .table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: none !important;
+}
+
+
+#tariff-details-expand, #supply-expand {
+    color: black;
+    font-weight: 600;
+    border: none !important;
+    padding-right: 0px !important;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+
+#supplier-logo {
+    max-height: 100px;
+}
+
+
+.row-divider {
+    margin-top: 40px;
+}
+
+.form-container {
+    padding-top: 0px !Important; 
+}
+
+.question-divider-small {
+    margin-top: 10px;
+}
+
+.arrow:before {
+    background-color: #f7f7f7 !Important;
+    color: black !Important;
+}
+
+.input-regex-invalid {
+    border-color: red !important;
+    border-width: 1px !important;
+}
+
+.input-regex-valid {
+    border-color: #ff0a9a !important;
+    border-width: 3px !important;
+}
+
+
+#direct-debit-container {
+    padding-top: 25px;
+    padding-bottom: 15px;
+    background-color: white;
+    margin-bottom: 35px;
+}
+
+#direct-debit-instructions > h1 {
+    font-size: 1.4rem;
+}
+
+#direct-debit-logo {
+text-align: left;
+}
+
+
+
+.com-labels {
+    margin-left: 20px;
+    height: 100%;
+    margin-top: 9px;
+    position: absolute;
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+
+.custom-control-label::after {
+    position: absolute;
+    top: .25rem;
+    left: -1.5rem;
+    display: block;
+    width: 2rem;
+    height: 2rem;
+    content: "";
+    background: no-repeat 50%/50% 50%;
+}
+
+
+.custom-control-label::before {
+    border: #ff0a9a;
+    background-color: #f7f7f7;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.custom-control-label::before {
+    position: absolute;
+    top: .25rem;
+    left: -1.5rem;
+    display: block;
+    width: 2rem;
+    height: 2rem;
+    pointer-events: none;
+    content: "";
+    background-color: #fff;
+    border-color: #f7f7f7 !Important;
+    border-style: solid !Important;
+    border-width: 3px !Important;
+    color: black !important;
+}
+
+.custom-checkbox {
+    margin-bottom: 25px;
+}
+
+.com-container {
+    height: 100%;
+    width: 100%;
+}
+
+#modal-footer-confirm {
+    width: 100%;
+}
+
+
+
+@media (min-width: 1200px) {
+    #form-tabs {
+        max-width: 960px;
+        width: 100%;
+        margin: auto;
+    }
+}
+#form-tabs {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: #ff0a9a;
+    color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+
+.supplier-box {
+    padding-bottom: 60px !important;
+    padding-top: 60px !important;
+    border: none;
+}
+
+
+#form-tab-title {
+    font-weight: 800;
+    padding-top: 12px;
+}
+
+
+.form-save-text {
+    color: black;
+    margin-bottom: 0px;
+    font-size: 1.2rem;
+}
+
+.save-amount {
+
+}
+
+
+.form-tariff-name {
+    color: black;
+    margin-bottom: 0px;
+    font-size: 1.2rem;
+}
+
+#form-expand-details {
+    margin-top: 15px;
+    font-weight: 800 !important;
+}
+
+#form-expand-arrow {
+    color: #ff0a9a;
+    margin-right: 3px;
+    font-size: 15px;
+}
+
+
+.pull-bottom {
+    bottom: 0;
+    position: absolute;
+}
+
+.b-small {
+    max-width: 28%;
+    display: inline;
+}
+
+.b-large {
+    max-width: 40%;
+    display: inline;
+}
+
+
+
+.cheapest-text {
+    margin-bottom: 0px;
+    width: fit-content;
+    color: white;
+    background-color: #ff0a9a;
+    font-weight: 600;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+
+#cheapest-row {
+    margin-bottom: -20px;
+    padding-top: 20px;
+}
+
+
+
+
+#form-control-transparent {
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 35px;
+    padding-bottom: 0px;
+    background-color: transparent;
+    max-width: 960px;
+    width: 100%;
+    margin: auto;
+}
+
+
+#form-container-no-bottom {
+    background-color: #f7f7f7 !Important;
+    padding-top: 35px;
+    padding-bottom: 10px;
+
+}
+
+#before-form-title {
+    font-weight: 800;
+    color: #ff0a9a;
+}
+
+
+.before-form-text {
+    color: black !Important;
+    font-size: 1.1rem !Important;
+    font-weight: 800;
+}
+
+.no-border-right {
+    border-right: none !important;
+}
+
+.input-group-text {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: .375rem .75rem;
+    margin-bottom: 0;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.5;
+    color: #000000;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #e9ecef00;
+    height: calc(1.5em + .75rem + 10px) !Important;
+    border-color: #f7f7f7 !Important;
+    border-style: solid !Important;
+    border-width: 3px !Important;
+    border-left: none !important;
+}
+
+
+.confirm-switch-control {
+    padding-left: 0px !Important;
+    padding-right: 0px !Important;
+    padding-top: 0px !Important;
+    background-color: transparent !Important;
+    text-align: center;
+}
+
+#confirm-switch {
+    max-width: 200px;
+    border-radius: 25px;
+}
+
+#early-exit-field {
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+
+
+.table-title {
+    font-weight: 800;
+}
+
+
+input {
+    background-repeat: no-repeat;
+    background-position: 96%;
+    background-size: 15px;
+}
+
+#table-container {
+    padding-left: 0px;
+    padding-right: 0px;
+    max-width: 960px;
+    margin: auto;
+}
+
+
+
+#confirm-switch:not(:disabled):not(.disabled).active, #confirm-switch:not(:disabled):not(.disabled):active, .show>#confirm-switch.dropdown-toggle {
+    color: white !Important;
+    border: none !Important;
+    background-color: black !Important;
+}
+
+
+
+.icon-pull-right {
+    position: absolute;
+    right: 5px;
+}
+
+
+[data-toggle="tooltip"] {
+    
+}
+
+
+@media (max-width: 540.00px) { 
+    
+    #form-expand-details {
+        margin-bottom: 25px;
+    }
+    
+    #ec-container {
+        margin-top: 25px !important;
+    }
+    
+    #save-container {
+        text-align: left;
+        margin-left: 0px !Important;
+        margin-bottom: 15px;
+    }
+    
+    #tariff-details-expand {
+        margin-top: 10px;
+        text-align: left;
+        display: block;
+    }
+    
+}
+
+
+@media (min-width: 1000px) {
+    .tooltip-inner {
+        max-width: 40rem;
+        position: absolute;
+        margin-left: -42rem;
+        width: 40rem;
+    }
+}
+
+@media (max-width: 340.00px) { 
+    .b-small {
+        max-width: 48%;
+        margin-bottom: 10px;
+        display: inline;
+    }
+    
+    .form-container {
+        padding-left: 0px !Important; 
+        padding-right: 0px !Important; 
+    }
+    
+    .b-large {
+    max-width: 97%;
+    display: inline;
+    }
+     
+}
+
+
+#show-direct-modal {
+    color: #ff0b9a;
+}
+
+#direct-debit-img {
+    max-width: 50%;
+    margin-bottom: 35px;
+}
+
+#show-direct-modal:hover {
+    border-bottom-style: solid;
+    border-bottom-color: #ff0b9a;
+    border-bottom-width: 2px;
+    text-decoration: none !important;
+}
+
+.input-group-text {
+    padding-right: 25px;
+}
+
+
+
+.table-title-new {
+    white-space: nowrap !important;
+    color: #ff0b9a;
+}

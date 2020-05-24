@@ -1,0 +1,204 @@
+#section-one-container {
+    clip-path: none !Important;
+}
+
+
+.page-title {
+    font-weight: 700;
+    color: white;
+}
+.black {
+    color: black !Important
+}
+
+#popular-q {
+    margin-bottom: 40px;
+}
+
+
+#faq-search {
+    border-radius: 0px !Important;
+    margin-top: 20px;
+}
+
+#faq-search:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: transparent;
+    outline: 0;
+    box-shadow: none;
+}
+
+
+.faq-title {
+    color: black;
+}
+
+.accordion-btn {
+    width: 100%;
+}
+
+
+.btn-link:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.btn-link.focus, .btn-link:focus {
+    text-decoration: none;
+    box-shadow: none;
+    color: black;
+}
+
+
+
+.qa-title:hover {
+    cursor: pointer;
+}
+
+
+.card {
+    border-color: #ffffff00;
+}
+
+.card {
+    background-color: #fff0;
+}
+
+/*
+.qa-title:hover {
+    text-decoration-color: #ff0b9a;
+    text-decoration-line: underline;
+    text-decoration-thickness: 2px;
+    cursor: pointer;
+}*/
+
+.card-body {
+       background-color: #efefef00;
+    font-weight: 400;
+}
+
+
+.faq-arrow {
+    color: #ff0b9a;
+    font-size: 1.4rem;
+    margin-top: 10px;
+}
+
+.accordion>.card .card-header {
+    margin-bottom: -1px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.collapse > .card-body {
+    padding-left: 0px !Important;
+    padding-right: 0px !Important;
+}
+
+
+.faq-title-container {
+    margin-top: 10px;
+    padding-left: 0px;
+}
+
+
+.easy-autocomplete-container ul li div {
+    text-align: left;
+}
+
+.qa-container {
+    margin-bottom: 20px;
+}
+
+#section-two-container {
+    background-color: white !Important;
+}
+
+.card-header {
+    background-color: rgba(0, 0, 0, 0);
+    border-bottom: 1px solid rgba(0, 0, 0, 0);
+}
+
+@media (min-width: 1199.98px) {
+    #section-two-container .row {
+        margin: auto;
+        max-width: 960px;
+    }
+}
+
+@media (max-width: 860px) {
+    .faq-title-container {
+        max-width: 84.666667%;
+        padding-right: 0px;
+        padding-left: 0px;
+    }    
+}
+
+
+#function-data {
+    border: none;
+    border-radius: 0px;
+    height: 50px;
+    font-family: oscine;
+    box-shadow: none;
+}
+
+.easy-autocomplete {
+    width: 100% !Important;
+    margin-top: 20px;
+}
+
+#accordionFAQ {
+    /* height: 250px; */
+}
+
+#body {
+    font-size: 1rem;
+    font-weight: 400;
+    margin-top: 30px;
+}
+
+.eac-item {
+    font-size: 1rem;
+    font-weight: 400;
+    color: black;
+    font-style: normal;
+}
+
+#title {
+    margin-top: 30px;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    font-size: 1rem !Important;
+    font-weight: 400 !Important;
+    color: black !Important;
+    font-style: normal !Important;
+}
+::-moz-placeholder { /* Firefox 19+ */
+    font-size: 1rem !Important;
+    font-weight: 400 !Important;
+    color: black !Important;
+    font-style: normal !Important;
+}
+:-ms-input-placeholder { /* IE 10+ */
+    font-size: 1rem !Important;
+    font-weight: 400 !Important;
+    color: black !Important;
+    font-style: normal !Important;
+}
+:-moz-placeholder { /* Firefox 18- */
+    font-size: 1rem !Important;
+    font-weight: 400 !Important;
+    color: black !Important;
+    font-style: normal !Important;
+}
+
+
+
+@media (min-width: 1199.98px) {
+#section-one-container .row {
+    padding-left: 0px !Important;
+}
+}

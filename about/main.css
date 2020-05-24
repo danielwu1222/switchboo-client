@@ -1,0 +1,38 @@
+#page-title {
+    font-weight: 700;
+    color: white;
+}
+
+#page-sub-title {
+    color: white;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+.step-container {
+    margin-bottom: 40px;
+}
+
+.step-box {
+    padding: 20px;
+}
+
+.step-box h2 {
+    font-weight: 700;
+}
+
+.step-box p {
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+.title {
+    font-weight: 700;
+    color: white;
+    font-size: 2rem;
+}
+
+#section-one-container {
+    min-height: 227px;
+    padding-top: 80px;
+}

@@ -1,0 +1,13 @@
+.rounded {
+    border-radius: 100px !Important;
+    padding-top: 20px !Important;
+}
+
+.rounded .row {
+    max-width: 600px;
+    margin: auto;
+}
+
+select {
+    border-radius: 0px !Important;
+}

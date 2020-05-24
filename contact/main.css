@@ -1,0 +1,136 @@
+#page-title {
+    font-weight: 700;
+    color: white;
+}
+
+.title {
+    font-weight: 700;
+    color: white;
+    font-size: 2rem;
+}
+
+#section-one-container {
+    min-height: 227px;
+    padding-top: 80px;
+}
+
+#page-sub-title {
+    color: white;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+.step-container {
+    margin-bottom: 10px;
+}
+
+.step-box {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.step-box h2 {
+    font-weight: 700;
+}
+
+.step-box p {
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+.white-bg {
+    background-color: white;
+}
+
+.no-spacing {
+    padding-bottom: 0px !Important;
+    margin-bottom: 0px !Important;
+}
+
+.margin-bottom {
+    padding-bottom: 20px;
+}
+
+#submit-btn {
+    float: right;
+    margin-top: 0px !Important;
+    font-size: 0.8rem !Important;
+    font-family: oscine, sans-serif !Important;
+    font-weight: 800 !Important;
+    font-style: italic !Important;
+    font-size: 1.2rem !Important;
+    padding-top: 10px;
+    width: 100%;
+    height: calc(1.6em + .75rem + 4px);
+    background-color: black;
+    border-radius: 0px;
+    border: none;
+    max-width: 150px;
+}
+
+#nav-row {
+    width: 100%;
+}
+
+
+#contact-row {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+
+
+.hella-spacing {
+    margin-bottom: 60px;
+}
+
+
+.no-left-right {
+    padding-left: 0px !Important;
+    padding-right: 0px !Important;
+}
+
+
+.no-top {
+    padding-top: 0px !Important;
+}
+
+
+#contact-text {
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+#section-two-container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#contact-container {
+    background-color: white;
+    border-style: solid;
+    border-color: white;
+    border-radius: 0px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    max-width: 370px;
+    margin: auto;
+}
+
+contact-title {
+    font-weight: 800;
+    color: #ff0b9a;
+}
+
+
+.contact-item {
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+.contact-info {
+    font-weight: 400;
+    font-size: 1.05rem;
+}

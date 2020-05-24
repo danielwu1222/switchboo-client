@@ -1,0 +1,1068 @@
+May 11 11:39:15 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 20964 on 82.165.87.90 port 22
+May 11 11:39:16 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 20964 ssh2
+May 11 11:39:16 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 20964
+May 11 11:39:16 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 11:39:29 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 33900 on 82.165.87.90 port 22
+May 11 11:39:29 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 33900 ssh2
+May 11 11:39:29 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 33900
+May 11 11:39:29 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 11:42:40 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 10214 on 82.165.87.90 port 22
+May 11 11:42:41 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 10214 ssh2
+May 11 11:42:41 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 10214
+May 11 11:42:41 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 11:42:42 10.71.57.0 u99678632-luke open "/assets/js/form4.js" flags READ mode 0666
+May 11 11:42:42 10.71.57.0 u99678632-luke close "/assets/js/form4.js" bytes read 20248 written 0
+May 11 11:42:42 10.71.57.0 u99678632-luke [10.71.57.0|get|0|20248|0|0|0|2f6173736574732f6a732f666f726d342e6a73|]
+May 11 11:43:42 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 11:43:42 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 12:14:44 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 22520 on 82.165.87.90 port 22
+May 11 12:14:45 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 22520 ssh2
+May 11 12:14:45 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 22520
+May 11 12:14:45 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 12:14:45 10.71.57.0 u99678632-luke sent status No such file
+May 11 12:14:45 10.71.57.0 u99678632-luke open "/assets/images/Excellent Trust Pilot.png" flags WRITE,CREATE,TRUNCATE mode 0100644
+May 11 12:14:47 10.71.57.0 u99678632-luke close "/assets/images/Excellent Trust Pilot.png" bytes read 0 written 975986
+May 11 12:14:47 10.71.57.0 u99678632-luke [10.71.57.0|put|2|975986|0|0|0|2f6173736574732f696d616765732f457863656c6c656e742054727573742050696c6f742e706e67|]
+May 11 12:15:47 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 12:15:47 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 13:10:18 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 13566 on 82.165.87.90 port 22
+May 11 13:10:18 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 13566 ssh2
+May 11 13:10:19 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 13566
+May 11 13:10:19 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 13:10:19 10.71.57.0 u99678632-luke sent status No such file
+May 11 13:10:19 10.71.57.0 u99678632-luke open "/assets/images/Excellent.png" flags WRITE,CREATE,TRUNCATE mode 0100644
+May 11 13:10:19 10.71.57.0 u99678632-luke close "/assets/images/Excellent.png" bytes read 0 written 69685
+May 11 13:10:19 10.71.57.0 u99678632-luke [10.71.57.0|put|0|69685|0|0|0|2f6173736574732f696d616765732f457863656c6c656e742e706e67|]
+May 11 13:11:03 10.71.57.0 u99678632-luke open "/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 13:11:03 10.71.57.0 u99678632-luke close "/index.php" bytes read 0 written 26642
+May 11 13:11:03 10.71.57.0 u99678632-luke [10.71.57.0|put|0|26642|0|0|0|2f696e6465782e706870|]
+May 11 13:12:03 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 13:12:03 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 13:14:37 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 61764 on 82.165.87.90 port 22
+May 11 13:14:37 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 61764 ssh2
+May 11 13:14:38 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 61764
+May 11 13:14:38 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 13:14:38 10.71.57.0 u99678632-luke sent status No such file
+May 11 13:14:38 10.71.57.0 u99678632-luke open "/assets/images/Trustpilot copy.png" flags WRITE,CREATE,TRUNCATE mode 0100644
+May 11 13:14:39 10.71.57.0 u99678632-luke close "/assets/images/Trustpilot copy.png" bytes read 0 written 118295
+May 11 13:14:39 10.71.57.0 u99678632-luke [10.71.57.0|put|1|118295|0|0|0|2f6173736574732f696d616765732f547275737470696c6f7420636f70792e706e67|]
+May 11 13:15:03 10.71.57.0 u99678632-luke open "/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 13:15:03 10.71.57.0 u99678632-luke close "/index.php" bytes read 0 written 26648
+May 11 13:15:03 10.71.57.0 u99678632-luke [10.71.57.0|put|0|26648|0|0|0|2f696e6465782e706870|]
+May 11 13:15:33 10.71.57.0 u99678632-luke open "/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 13:15:33 10.71.57.0 u99678632-luke close "/index.php" bytes read 0 written 26642
+May 11 13:15:33 10.71.57.0 u99678632-luke [10.71.57.0|put|0|26642|0|0|0|2f696e6465782e706870|]
+May 11 13:16:33 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 13:16:33 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 13:34:28 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 13:34:28 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 13:46:27 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 13:46:27 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 16:34:19 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 46060 on 82.165.87.90 port 22
+May 11 16:34:19 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 46060 ssh2
+May 11 16:34:19 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 46060
+May 11 16:34:20 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 16:34:23 10.71.57.0 u99678632-luke open "/assets/images/review3.png" flags WRITE,CREATE,TRUNCATE mode 0100644
+May 11 16:34:27 10.71.57.0 u99678632-luke close "/assets/images/review3.png" bytes read 0 written 1803894
+May 11 16:34:27 10.71.57.0 u99678632-luke [10.71.57.0|put|4|1803894|0|0|0|2f6173736574732f696d616765732f726576696577332e706e67|]
+May 11 16:35:27 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 16:35:27 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 16:35:53 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 35386 on 82.165.87.90 port 22
+May 11 16:35:54 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 35386 ssh2
+May 11 16:35:54 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 35386
+May 11 16:35:54 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 16:35:55 10.71.57.0 u99678632-luke open "/assets/images/review3.jpg" flags WRITE,CREATE,TRUNCATE mode 0100644
+May 11 16:35:56 10.71.57.0 u99678632-luke close "/assets/images/review3.jpg" bytes read 0 written 369495
+May 11 16:35:56 10.71.57.0 u99678632-luke [10.71.57.0|put|1|369495|0|0|0|2f6173736574732f696d616765732f726576696577332e6a7067|]
+May 11 16:36:14 10.71.57.0 u99678632-luke open "/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 16:36:14 10.71.57.0 u99678632-luke close "/index.php" bytes read 0 written 26639
+May 11 16:36:14 10.71.57.0 u99678632-luke [10.71.57.0|put|0|26639|0|0|0|2f696e6465782e706870|]
+May 11 16:37:14 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 16:37:14 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 16:48:54 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 29264 on 82.165.87.90 port 22
+May 11 16:48:55 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 29264 ssh2
+May 11 16:48:55 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 29264
+May 11 16:48:57 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 16:51:58 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 10222 on 82.165.87.90 port 22
+May 11 16:51:59 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 10222 ssh2
+May 11 16:51:59 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 10222
+May 11 16:51:59 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 16:51:59 10.71.57.0 u99678632-luke open "/assets/css/main-new.css" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 16:52:00 10.71.57.0 u99678632-luke close "/assets/css/main-new.css" bytes read 0 written 20021
+May 11 16:52:00 10.71.57.0 u99678632-luke [10.71.57.0|put|1|20021|0|0|0|2f6173736574732f6373732f6d61696e2d6e65772e637373|]
+May 11 16:52:22 10.71.57.0 u99678632-luke open "/assets/css/main-new.css" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 16:52:22 10.71.57.0 u99678632-luke close "/assets/css/main-new.css" bytes read 0 written 19995
+May 11 16:52:22 10.71.57.0 u99678632-luke [10.71.57.0|put|0|19995|0|0|0|2f6173736574732f6373732f6d61696e2d6e65772e637373|]
+May 11 16:53:29 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 16:53:29 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 16:54:30 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 65120 on 82.165.87.90 port 22
+May 11 16:54:30 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 65120 ssh2
+May 11 16:54:30 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 65120
+May 11 16:54:30 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 16:54:31 10.71.57.0 u99678632-luke open "/energy/1/index.php" flags READ mode 0666
+May 11 16:54:31 10.71.57.0 u99678632-luke close "/energy/1/index.php" bytes read 38653 written 0
+May 11 16:54:31 10.71.57.0 u99678632-luke [10.71.57.0|get|0|38653|0|0|0|2f656e657267792f312f696e6465782e706870|]
+May 11 16:54:56 10.71.57.0 u99678632-luke open "/energy/1/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 16:54:57 10.71.57.0 u99678632-luke close "/energy/1/index.php" bytes read 0 written 38638
+May 11 16:54:57 10.71.57.0 u99678632-luke [10.71.57.0|put|1|38638|0|0|0|2f656e657267792f312f696e6465782e706870|]
+May 11 16:55:59 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 16:55:59 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 16:56:52 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 42620 on 82.165.87.90 port 22
+May 11 16:56:53 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 42620 ssh2
+May 11 16:56:53 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 42620
+May 11 16:56:53 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 16:56:54 10.71.57.0 u99678632-luke open "/assets/css/form1.css" flags READ mode 0666
+May 11 16:56:54 10.71.57.0 u99678632-luke close "/assets/css/form1.css" bytes read 6677 written 0
+May 11 16:56:54 10.71.57.0 u99678632-luke [10.71.57.0|get|0|6677|0|0|0|2f6173736574732f6373732f666f726d312e637373|]
+May 11 16:57:54 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 16:57:54 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 16:58:10 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 12810 on 82.165.87.90 port 22
+May 11 16:58:11 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 12810 ssh2
+May 11 16:58:11 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 12810
+May 11 16:58:11 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 16:58:12 10.71.57.0 u99678632-luke open "/assets/css/form3.css" flags READ mode 0666
+May 11 16:58:12 10.71.57.0 u99678632-luke close "/assets/css/form3.css" bytes read 623 written 0
+May 11 16:58:12 10.71.57.0 u99678632-luke [10.71.57.0|get|0|623|0|0|0|2f6173736574732f6373732f666f726d332e637373|]
+May 11 16:58:39 10.71.57.0 u99678632-luke open "/assets/css/form3.css" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 16:58:39 10.71.57.0 u99678632-luke close "/assets/css/form3.css" bytes read 0 written 623
+May 11 16:58:39 10.71.57.0 u99678632-luke [10.71.57.0|put|0|623|0|0|0|2f6173736574732f6373732f666f726d332e637373|]
+May 11 16:59:38 10.71.57.0 u99678632-luke open "/assets/css/form3.css" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 16:59:38 10.71.57.0 u99678632-luke close "/assets/css/form3.css" bytes read 0 written 624
+May 11 16:59:38 10.71.57.0 u99678632-luke [10.71.57.0|put|0|624|0|0|0|2f6173736574732f6373732f666f726d332e637373|]
+May 11 17:00:34 10.71.57.0 u99678632-luke open "/assets/css/form3.css" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:00:34 10.71.57.0 u99678632-luke close "/assets/css/form3.css" bytes read 0 written 624
+May 11 17:00:34 10.71.57.0 u99678632-luke [10.71.57.0|put|0|624|0|0|0|2f6173736574732f6373732f666f726d332e637373|]
+May 11 17:01:04 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags READ mode 0666
+May 11 17:01:05 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 5156 written 0
+May 11 17:01:05 10.71.57.0 u99678632-luke [10.71.57.0|get|1|5156|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:01:41 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:01:41 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 5120
+May 11 17:01:41 10.71.57.0 u99678632-luke [10.71.57.0|put|0|5120|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:02:39 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:02:40 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 5117
+May 11 17:02:40 10.71.57.0 u99678632-luke [10.71.57.0|put|1|5117|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:03:26 10.71.57.0 u99678632-luke open "/assets/css/form3.css" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:03:26 10.71.57.0 u99678632-luke close "/assets/css/form3.css" bytes read 0 written 621
+May 11 17:03:26 10.71.57.0 u99678632-luke [10.71.57.0|put|0|621|0|0|0|2f6173736574732f6373732f666f726d332e637373|]
+May 11 17:04:26 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:04:26 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:05:12 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 61046 on 82.165.87.90 port 22
+May 11 17:05:12 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 61046 ssh2
+May 11 17:05:12 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 61046
+May 11 17:05:12 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:05:13 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:05:13 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 5065
+May 11 17:05:13 10.71.57.0 u99678632-luke [10.71.57.0|put|0|5065|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:06:19 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:06:19 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:06:46 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 46628 on 82.165.87.90 port 22
+May 11 17:06:47 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 46628 ssh2
+May 11 17:06:47 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 46628
+May 11 17:06:47 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:06:48 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:06:48 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 5064
+May 11 17:06:48 10.71.57.0 u99678632-luke [10.71.57.0|put|0|5064|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:07:48 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:07:48 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:08:06 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 17078 on 82.165.87.90 port 22
+May 11 17:08:06 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 17078 ssh2
+May 11 17:08:06 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 17078
+May 11 17:08:06 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:08:07 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:08:07 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 5115
+May 11 17:08:07 10.71.57.0 u99678632-luke [10.71.57.0|put|0|5115|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:08:17 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:08:17 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 5116
+May 11 17:08:17 10.71.57.0 u99678632-luke [10.71.57.0|put|0|5116|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:09:17 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:09:17 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:09:45 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 62502 on 82.165.87.90 port 22
+May 11 17:09:46 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 62502 ssh2
+May 11 17:09:46 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 62502
+May 11 17:09:46 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:09:46 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:09:47 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 5275
+May 11 17:09:47 10.71.57.0 u99678632-luke [10.71.57.0|put|1|5275|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:10:05 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:10:06 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 5116
+May 11 17:10:06 10.71.57.0 u99678632-luke [10.71.57.0|put|1|5116|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:10:36 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:10:36 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 5254
+May 11 17:10:36 10.71.57.0 u99678632-luke [10.71.57.0|put|0|5254|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:10:56 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:10:56 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 5261
+May 11 17:10:56 10.71.57.0 u99678632-luke [10.71.57.0|put|0|5261|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:12:05 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:12:05 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:14:39 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 40508 on 82.165.87.90 port 22
+May 11 17:14:39 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 40508 ssh2
+May 11 17:14:39 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 40508
+May 11 17:14:39 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:14:40 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:14:40 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 5499
+May 11 17:14:40 10.71.57.0 u99678632-luke [10.71.57.0|put|0|5499|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:15:44 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:15:44 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:16:03 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 15596 on 82.165.87.90 port 22
+May 11 17:16:04 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 15596 ssh2
+May 11 17:16:04 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 15596
+May 11 17:16:04 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:16:04 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:16:05 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 5493
+May 11 17:16:05 10.71.57.0 u99678632-luke [10.71.57.0|put|1|5493|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:17:05 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:17:05 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:17:17 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 31112 on 82.165.87.90 port 22
+May 11 17:17:18 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 31112 ssh2
+May 11 17:17:18 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 31112
+May 11 17:17:18 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:17:18 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:17:18 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 5563
+May 11 17:17:18 10.71.57.0 u99678632-luke [10.71.57.0|put|0|5563|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:18:19 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:18:19 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:20:08 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 36464 on 82.165.87.90 port 22
+May 11 17:20:09 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 36464 ssh2
+May 11 17:20:09 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 36464
+May 11 17:20:09 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:20:09 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:20:09 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 5466
+May 11 17:20:09 10.71.57.0 u99678632-luke [10.71.57.0|put|0|5466|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:21:10 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:21:10 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:22:39 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 22988 on 82.165.87.90 port 22
+May 11 17:22:39 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 22988 ssh2
+May 11 17:22:39 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 22988
+May 11 17:22:39 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:22:40 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:22:40 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 5638
+May 11 17:22:40 10.71.57.0 u99678632-luke [10.71.57.0|put|0|5638|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:23:44 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:23:44 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:26:48 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 56816 on 82.165.87.90 port 22
+May 11 17:26:48 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 56816 ssh2
+May 11 17:26:48 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 56816
+May 11 17:26:48 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:26:49 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:26:49 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 6270
+May 11 17:26:49 10.71.57.0 u99678632-luke [10.71.57.0|put|0|6270|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:27:14 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:27:14 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 6277
+May 11 17:27:14 10.71.57.0 u99678632-luke [10.71.57.0|put|0|6277|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:28:19 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:28:19 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:28:49 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 17112 on 82.165.87.90 port 22
+May 11 17:28:49 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 17112 ssh2
+May 11 17:28:50 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 17112
+May 11 17:28:50 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:28:50 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:28:50 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 6441
+May 11 17:28:50 10.71.57.0 u99678632-luke [10.71.57.0|put|0|6441|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:29:50 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:29:50 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:29:58 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 28952 on 82.165.87.90 port 22
+May 11 17:29:58 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 28952 ssh2
+May 11 17:29:58 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 28952
+May 11 17:29:58 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:29:59 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:29:59 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 6686
+May 11 17:29:59 10.71.57.0 u99678632-luke [10.71.57.0|put|0|6686|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:30:59 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:30:59 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:31:51 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 36034 on 82.165.87.90 port 22
+May 11 17:31:51 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 36034 ssh2
+May 11 17:31:51 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 36034
+May 11 17:31:52 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:31:52 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:31:53 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 6648
+May 11 17:31:53 10.71.57.0 u99678632-luke [10.71.57.0|put|1|6648|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:32:14 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:32:14 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 6651
+May 11 17:32:14 10.71.57.0 u99678632-luke [10.71.57.0|put|0|6651|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:33:19 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:33:19 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:34:12 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 28620 on 82.165.87.90 port 22
+May 11 17:34:12 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 28620 ssh2
+May 11 17:34:12 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 28620
+May 11 17:34:12 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:34:13 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:34:13 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 6721
+May 11 17:34:13 10.71.57.0 u99678632-luke [10.71.57.0|put|0|6721|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:34:40 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:34:40 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 6723
+May 11 17:34:40 10.71.57.0 u99678632-luke [10.71.57.0|put|0|6723|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:35:44 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:35:44 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:36:02 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 34338 on 82.165.87.90 port 22
+May 11 17:36:03 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 34338 ssh2
+May 11 17:36:03 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 34338
+May 11 17:36:03 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:36:03 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:36:03 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 6787
+May 11 17:36:03 10.71.57.0 u99678632-luke [10.71.57.0|put|0|6787|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:36:29 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:36:29 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 6792
+May 11 17:36:29 10.71.57.0 u99678632-luke [10.71.57.0|put|0|6792|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:37:32 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:37:32 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:37:36 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 22430 on 82.165.87.90 port 22
+May 11 17:37:37 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 22430 ssh2
+May 11 17:37:37 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 22430
+May 11 17:37:37 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:37:37 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:37:37 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 6804
+May 11 17:37:37 10.71.57.0 u99678632-luke [10.71.57.0|put|0|6804|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:38:34 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:38:34 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 6796
+May 11 17:38:34 10.71.57.0 u99678632-luke [10.71.57.0|put|0|6796|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:39:34 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:39:34 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:41:25 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 41448 on 82.165.87.90 port 22
+May 11 17:41:25 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 41448 ssh2
+May 11 17:41:25 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 41448
+May 11 17:41:26 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:41:26 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:41:26 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 7036
+May 11 17:41:26 10.71.57.0 u99678632-luke [10.71.57.0|put|0|7036|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:42:26 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:42:26 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:42:50 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 18454 on 82.165.87.90 port 22
+May 11 17:42:50 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 18454 ssh2
+May 11 17:42:50 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 18454
+May 11 17:42:50 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:42:50 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:42:50 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 7036
+May 11 17:42:50 10.71.57.0 u99678632-luke [10.71.57.0|put|0|7036|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:43:50 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:43:50 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:44:06 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 43320 on 82.165.87.90 port 22
+May 11 17:44:06 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 43320 ssh2
+May 11 17:44:06 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 43320
+May 11 17:44:07 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:44:08 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:44:08 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 7039
+May 11 17:44:08 10.71.57.0 u99678632-luke [10.71.57.0|put|0|7039|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:44:28 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:44:28 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 7041
+May 11 17:44:28 10.71.57.0 u99678632-luke [10.71.57.0|put|0|7041|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:45:03 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:45:03 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 7057
+May 11 17:45:03 10.71.57.0 u99678632-luke [10.71.57.0|put|0|7057|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:46:02 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:46:02 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 7106
+May 11 17:46:02 10.71.57.0 u99678632-luke [10.71.57.0|put|0|7106|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:46:23 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:46:23 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 7113
+May 11 17:46:23 10.71.57.0 u99678632-luke [10.71.57.0|put|0|7113|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:47:00 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:47:00 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 7114
+May 11 17:47:00 10.71.57.0 u99678632-luke [10.71.57.0|put|0|7114|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:47:39 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:47:39 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 7115
+May 11 17:47:39 10.71.57.0 u99678632-luke [10.71.57.0|put|0|7115|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:48:44 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:48:44 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:49:14 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 26010 on 82.165.87.90 port 22
+May 11 17:49:14 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 26010 ssh2
+May 11 17:49:14 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 26010
+May 11 17:49:14 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:49:15 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:49:15 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 7122
+May 11 17:49:15 10.71.57.0 u99678632-luke [10.71.57.0|put|0|7122|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:49:35 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:49:35 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 7137
+May 11 17:49:35 10.71.57.0 u99678632-luke [10.71.57.0|put|0|7137|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:50:35 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:50:35 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:50:57 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 21246 on 82.165.87.90 port 22
+May 11 17:50:58 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 21246 ssh2
+May 11 17:50:58 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 21246
+May 11 17:50:58 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:50:59 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:50:59 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 7138
+May 11 17:50:59 10.71.57.0 u99678632-luke [10.71.57.0|put|0|7138|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:51:59 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:51:59 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:55:15 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 56654 on 82.165.87.90 port 22
+May 11 17:55:15 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 56654 ssh2
+May 11 17:55:15 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 56654
+May 11 17:55:15 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:55:15 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:55:15 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 7178
+May 11 17:55:15 10.71.57.0 u99678632-luke [10.71.57.0|put|0|7178|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:55:35 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:55:35 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 7142
+May 11 17:55:35 10.71.57.0 u99678632-luke [10.71.57.0|put|0|7142|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:56:35 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:56:35 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 17:57:09 10.71.57.0 u99678632-luke Connection from 10.71.57.0 port 58444 on 82.165.87.90 port 22
+May 11 17:57:09 10.71.57.0 u99678632-luke Accepted password for u99678632-luke from 10.71.57.0 port 58444 ssh2
+May 11 17:57:09 10.71.57.0 u99678632-luke Starting session: subsystem 'sftp' for u99678632-luke from 10.71.57.0 port 58444
+May 11 17:57:09 10.71.57.0 u99678632-luke session opened for local user u99678632-luke from [10.71.57.0]
+May 11 17:57:10 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:57:10 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 7174
+May 11 17:57:10 10.71.57.0 u99678632-luke [10.71.57.0|put|0|7174|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:57:27 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:57:27 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 7167
+May 11 17:57:27 10.71.57.0 u99678632-luke [10.71.57.0|put|0|7167|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:57:49 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:57:49 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 7142
+May 11 17:57:49 10.71.57.0 u99678632-luke [10.71.57.0|put|0|7142|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:58:22 10.71.57.0 u99678632-luke open "/energy/4/index.php" flags WRITE,CREATE,TRUNCATE mode 0100604
+May 11 17:58:22 10.71.57.0 u99678632-luke close "/energy/4/index.php" bytes read 0 written 7138
+May 11 17:58:22 10.71.57.0 u99678632-luke [10.71.57.0|put|0|7138|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 11 17:59:22 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 17:59:22 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 11 18:38:46 10.71.57.0 u99678632-luke Connection closed by 10.71.57.0
+May 11 18:38:46 10.71.57.0 u99678632-luke session closed for local user u99678632-luke from [10.71.57.0]
+May 12 12:13:24 10.71.57.0 u99678632 Connection from 10.71.57.0 port 50222 on 82.165.87.90 port 22
+May 12 12:13:25 10.71.57.0 u99678632 Accepted password for u99678632 from 10.71.57.0 port 50222 ssh2
+May 12 12:13:25 10.71.57.0 u99678632 Starting session: subsystem 'sftp' for u99678632 from 10.71.57.0 port 50222
+May 12 12:13:25 10.71.57.0 u99678632 session opened for local user u99678632 from [10.71.57.0]
+May 12 12:15:11 10.71.57.0 u99678632 Connection from 10.71.57.0 port 54608 on 82.165.87.90 port 22
+May 12 12:15:12 10.71.57.0 u99678632 Accepted password for u99678632 from 10.71.57.0 port 54608 ssh2
+May 12 12:15:12 10.71.57.0 u99678632 Starting session: subsystem 'sftp' for u99678632 from 10.71.57.0 port 54608
+May 12 12:15:12 10.71.57.0 u99678632 session opened for local user u99678632 from [10.71.57.0]
+May 12 12:15:12 10.71.57.0 u99678632 Connection from 10.71.57.0 port 55172 on 82.165.87.90 port 22
+May 12 12:15:12 10.71.57.0 u99678632 Accepted password for u99678632 from 10.71.57.0 port 55172 ssh2
+May 12 12:15:13 10.71.57.0 u99678632 Starting session: subsystem 'sftp' for u99678632 from 10.71.57.0 port 55172
+May 12 12:15:13 10.71.57.0 u99678632 session opened for local user u99678632 from [10.71.57.0]
+May 12 12:15:18 10.71.57.0 u99678632 open "/index.php" flags READ mode 0666
+May 12 12:15:18 10.71.57.0 u99678632 open "/.htaccess" flags READ mode 0666
+May 12 12:15:18 10.71.57.0 u99678632 close "/.htaccess" bytes read 111 written 0
+May 12 12:15:18 10.71.57.0 u99678632 [10.71.57.0|get|0|111|0|0|0|2f2e6874616363657373|]
+May 12 12:15:18 10.71.57.0 u99678632 close "/index.php" bytes read 26639 written 0
+May 12 12:15:18 10.71.57.0 u99678632 [10.71.57.0|get|0|26639|0|0|0|2f696e6465782e706870|]
+May 12 12:15:18 10.71.57.0 u99678632 open "/about/main.css" flags READ mode 0666
+May 12 12:15:18 10.71.57.0 u99678632 close "/about/main.css" bytes read 505 written 0
+May 12 12:15:18 10.71.57.0 u99678632 [10.71.57.0|get|0|505|0|0|0|2f61626f75742f6d61696e2e637373|]
+May 12 12:15:19 10.71.57.0 u99678632 open "/about/index.php" flags READ mode 0666
+May 12 12:15:19 10.71.57.0 u99678632 open "/assets/template.html" flags READ mode 0666
+May 12 12:15:19 10.71.57.0 u99678632 close "/about/index.php" bytes read 6197 written 0
+May 12 12:15:19 10.71.57.0 u99678632 [10.71.57.0|get|0|6197|0|0|0|2f61626f75742f696e6465782e706870|]
+May 12 12:15:19 10.71.57.0 u99678632 close "/assets/template.html" bytes read 34373 written 0
+May 12 12:15:19 10.71.57.0 u99678632 [10.71.57.0|get|0|34373|0|0|0|2f6173736574732f74656d706c6174652e68746d6c|]
+May 12 12:15:19 10.71.57.0 u99678632 open "/assets/css/fonts.css" flags READ mode 0666
+May 12 12:15:19 10.71.57.0 u99678632 open "/assets/css/main.css" flags READ mode 0666
+May 12 12:15:19 10.71.57.0 u99678632 close "/assets/css/fonts.css" bytes read 5965 written 0
+May 12 12:15:19 10.71.57.0 u99678632 [10.71.57.0|get|0|5965|0|0|0|2f6173736574732f6373732f666f6e74732e637373|]
+May 12 12:15:19 10.71.57.0 u99678632 close "/assets/css/main.css" bytes read 11374 written 0
+May 12 12:15:19 10.71.57.0 u99678632 [10.71.57.0|get|0|11374|0|0|0|2f6173736574732f6373732f6d61696e2e637373|]
+May 12 12:15:19 10.71.57.0 u99678632 open "/assets/css/main-new.css" flags READ mode 0666
+May 12 12:15:19 10.71.57.0 u99678632 open "/assets/css/forms.css" flags READ mode 0666
+May 12 12:15:20 10.71.57.0 u99678632 close "/assets/css/main-new.css" bytes read 19995 written 0
+May 12 12:15:20 10.71.57.0 u99678632 [10.71.57.0|get|1|19995|0|0|0|2f6173736574732f6373732f6d61696e2d6e65772e637373|]
+May 12 12:15:20 10.71.57.0 u99678632 close "/assets/css/forms.css" bytes read 14792 written 0
+May 12 12:15:20 10.71.57.0 u99678632 [10.71.57.0|get|1|14792|0|0|0|2f6173736574732f6373732f666f726d732e637373|]
+May 12 12:15:20 10.71.57.0 u99678632 open "/assets/css/form3.css" flags READ mode 0666
+May 12 12:15:20 10.71.57.0 u99678632 open "/assets/css/form2.css" flags READ mode 0666
+May 12 12:15:20 10.71.57.0 u99678632 close "/assets/css/form2.css" bytes read 8359 written 0
+May 12 12:15:20 10.71.57.0 u99678632 [10.71.57.0|get|0|8359|0|0|0|2f6173736574732f6373732f666f726d322e637373|]
+May 12 12:15:20 10.71.57.0 u99678632 close "/assets/css/form3.css" bytes read 621 written 0
+May 12 12:15:20 10.71.57.0 u99678632 [10.71.57.0|get|0|621|0|0|0|2f6173736574732f6373732f666f726d332e637373|]
+May 12 12:15:20 10.71.57.0 u99678632 open "/assets/css/form1.css" flags READ mode 0666
+May 12 12:15:20 10.71.57.0 u99678632 close "/assets/css/form1.css" bytes read 6677 written 0
+May 12 12:15:20 10.71.57.0 u99678632 [10.71.57.0|get|0|6677|0|0|0|2f6173736574732f6373732f666f726d312e637373|]
+May 12 12:15:20 10.71.57.0 u99678632 open "/assets/images/Trustpilot copy.png" flags READ mode 0666
+May 12 12:15:21 10.71.57.0 u99678632 close "/assets/images/Trustpilot copy.png" bytes read 118295 written 0
+May 12 12:15:21 10.71.57.0 u99678632 [10.71.57.0|get|1|118295|0|0|0|2f6173736574732f696d616765732f547275737470696c6f7420636f70792e706e67|]
+May 12 12:15:21 10.71.57.0 u99678632 open "/assets/images/Excellent.png" flags READ mode 0666
+May 12 12:15:21 10.71.57.0 u99678632 open "/assets/images/Excellent Trust Pilot.png" flags READ mode 0666
+May 12 12:15:21 10.71.57.0 u99678632 close "/assets/images/Excellent.png" bytes read 69685 written 0
+May 12 12:15:21 10.71.57.0 u99678632 [10.71.57.0|get|0|69685|0|0|0|2f6173736574732f696d616765732f457863656c6c656e742e706e67|]
+May 12 12:15:21 10.71.57.0 u99678632 open "/assets/images/trustpilot-excellent-cropped.png" flags READ mode 0666
+May 12 12:15:21 10.71.57.0 u99678632 close "/assets/images/Excellent Trust Pilot.png" bytes read 975986 written 0
+May 12 12:15:21 10.71.57.0 u99678632 [10.71.57.0|get|0|975986|0|0|0|2f6173736574732f696d616765732f457863656c6c656e742054727573742050696c6f742e706e67|]
+May 12 12:15:21 10.71.57.0 u99678632 close "/assets/images/trustpilot-excellent-cropped.png" bytes read 281961 written 0
+May 12 12:15:21 10.71.57.0 u99678632 [10.71.57.0|get|0|281961|0|0|0|2f6173736574732f696d616765732f747275737470696c6f742d657863656c6c656e742d63726f707065642e706e67|]
+May 12 12:15:22 10.71.57.0 u99678632 open "/assets/images/nhslogo.jpg" flags READ mode 0666
+May 12 12:15:22 10.71.57.0 u99678632 open "/assets/images/switchboo2020.png" flags READ mode 0666
+May 12 12:15:22 10.71.57.0 u99678632 close "/assets/images/nhslogo.jpg" bytes read 38535 written 0
+May 12 12:15:22 10.71.57.0 u99678632 [10.71.57.0|get|0|38535|0|0|0|2f6173736574732f696d616765732f6e68736c6f676f2e6a7067|]
+May 12 12:15:22 10.71.57.0 u99678632 close "/assets/images/switchboo2020.png" bytes read 62731 written 0
+May 12 12:15:22 10.71.57.0 u99678632 [10.71.57.0|get|0|62731|0|0|0|2f6173736574732f696d616765732f737769746368626f6f323032302e706e67|]
+May 12 12:15:22 10.71.57.0 u99678632 open "/assets/images/trustpilot.png" flags READ mode 0666
+May 12 12:15:22 10.71.57.0 u99678632 open "/assets/images/tp.jpeg" flags READ mode 0666
+May 12 12:15:22 10.71.57.0 u99678632 close "/assets/images/trustpilot.png" bytes read 893097 written 0
+May 12 12:15:22 10.71.57.0 u99678632 [10.71.57.0|get|0|893097|0|0|0|2f6173736574732f696d616765732f747275737470696c6f742e706e67|]
+May 12 12:15:23 10.71.57.0 u99678632 open "/assets/images/review3.jpg" flags READ mode 0666
+May 12 12:15:23 10.71.57.0 u99678632 close "/assets/images/tp.jpeg" bytes read 688235 written 0
+May 12 12:15:23 10.71.57.0 u99678632 [10.71.57.0|get|1|688235|0|0|0|2f6173736574732f696d616765732f74702e6a706567|]
+May 12 12:15:23 10.71.57.0 u99678632 close "/assets/images/review3.jpg" bytes read 369495 written 0
+May 12 12:15:23 10.71.57.0 u99678632 [10.71.57.0|get|0|369495|0|0|0|2f6173736574732f696d616765732f726576696577332e6a7067|]
+May 12 12:15:23 10.71.57.0 u99678632 open "/assets/images/review3.png" flags READ mode 0666
+May 12 12:15:23 10.71.57.0 u99678632 open "/assets/images/switchboo.png" flags READ mode 0666
+May 12 12:15:23 10.71.57.0 u99678632 close "/assets/images/switchboo.png" bytes read 57325 written 0
+May 12 12:15:23 10.71.57.0 u99678632 [10.71.57.0|get|0|57325|0|0|0|2f6173736574732f696d616765732f737769746368626f6f2e706e67|]
+May 12 12:15:23 10.71.57.0 u99678632 open "/assets/images/Anne_review.jpg" flags READ mode 0666
+May 12 12:15:24 10.71.57.0 u99678632 close "/assets/images/Anne_review.jpg" bytes read 1232541 written 0
+May 12 12:15:24 10.71.57.0 u99678632 [10.71.57.0|get|1|1232541|0|0|0|2f6173736574732f696d616765732f416e6e655f7265766965772e6a7067|]
+May 12 12:15:24 10.71.57.0 u99678632 open "/assets/images/anne.png" flags READ mode 0666
+May 12 12:15:24 10.71.57.0 u99678632 close "/assets/images/review3.png" bytes read 1803894 written 0
+May 12 12:15:24 10.71.57.0 u99678632 [10.71.57.0|get|1|1803894|0|0|0|2f6173736574732f696d616765732f726576696577332e706e67|]
+May 12 12:15:25 10.71.57.0 u99678632 open "/assets/images/trustpilot-logo.png" flags READ mode 0666
+May 12 12:15:25 10.71.57.0 u99678632 close "/assets/images/trustpilot-logo.png" bytes read 13226 written 0
+May 12 12:15:25 10.71.57.0 u99678632 [10.71.57.0|get|0|13226|0|0|0|2f6173736574732f696d616765732f747275737470696c6f742d6c6f676f2e706e67|]
+May 12 12:15:25 10.71.57.0 u99678632 open "/assets/images/trustpilot-excellent.png" flags READ mode 0666
+May 12 12:15:26 10.71.57.0 u99678632 close "/assets/images/trustpilot-excellent.png" bytes read 498269 written 0
+May 12 12:15:26 10.71.57.0 u99678632 [10.71.57.0|get|1|498269|0|0|0|2f6173736574732f696d616765732f747275737470696c6f742d657863656c6c656e742e706e67|]
+May 12 12:15:26 10.71.57.0 u99678632 open "/assets/images/trustpilot-5stars.png" flags READ mode 0666
+May 12 12:15:26 10.71.57.0 u99678632 close "/assets/images/trustpilot-5stars.png" bytes read 19201 written 0
+May 12 12:15:26 10.71.57.0 u99678632 [10.71.57.0|get|0|19201|0|0|0|2f6173736574732f696d616765732f747275737470696c6f742d3573746172732e706e67|]
+May 12 12:15:26 10.71.57.0 u99678632 open "/assets/images/review-two-edited.png" flags READ mode 0666
+May 12 12:15:28 10.71.57.0 u99678632 close "/assets/images/anne.png" bytes read 8903161 written 0
+May 12 12:15:28 10.71.57.0 u99678632 [10.71.57.0|get|4|8903161|0|0|0|2f6173736574732f696d616765732f616e6e652e706e67|]
+May 12 12:15:28 10.71.57.0 u99678632 open "/assets/images/review-two.jpg" flags READ mode 0666
+May 12 12:15:28 10.71.57.0 u99678632 sent status No such file
+May 12 12:15:29 10.71.57.0 u99678632 close "/assets/images/review-two.jpg" bytes read 1180700 written 0
+May 12 12:15:29 10.71.57.0 u99678632 [10.71.57.0|get|1|1180700|0|0|0|2f6173736574732f696d616765732f7265766965772d74776f2e6a7067|]
+May 12 12:15:29 10.71.57.0 u99678632 open "/assets/images/review-img.png" flags READ mode 0666
+May 12 12:15:32 10.71.57.0 u99678632 close "/assets/images/review-two-edited.png" bytes read 6433251 written 0
+May 12 12:15:32 10.71.57.0 u99678632 [10.71.57.0|get|6|6433251|0|0|0|2f6173736574732f696d616765732f7265766965772d74776f2d6564697465642e706e67|]
+May 12 12:15:33 10.71.57.0 u99678632 close "/assets/images/review-img.png" bytes read 5970873 written 0
+May 12 12:15:33 10.71.57.0 u99678632 [10.71.57.0|get|4|5970873|0|0|0|2f6173736574732f696d616765732f7265766965772d696d672e706e67|]
+May 12 12:15:33 10.71.57.0 u99678632 open "/assets/images/SB-display.png" flags READ mode 0666
+May 12 12:15:33 10.71.57.0 u99678632 open "/assets/images/direct_debit.png" flags READ mode 0666
+May 12 12:15:33 10.71.57.0 u99678632 close "/assets/images/SB-display.png" bytes read 50765 written 0
+May 12 12:15:33 10.71.57.0 u99678632 [10.71.57.0|get|0|50765|0|0|0|2f6173736574732f696d616765732f53422d646973706c61792e706e67|]
+May 12 12:15:33 10.71.57.0 u99678632 open "/assets/images/s.png" flags READ mode 0666
+May 12 12:15:33 10.71.57.0 u99678632 close "/assets/images/direct_debit.png" bytes read 42436 written 0
+May 12 12:15:33 10.71.57.0 u99678632 [10.71.57.0|get|0|42436|0|0|0|2f6173736574732f696d616765732f6469726563745f64656269742e706e67|]
+May 12 12:15:33 10.71.57.0 u99678632 open "/assets/images/delete-sign.png" flags READ mode 0666
+May 12 12:15:33 10.71.57.0 u99678632 close "/assets/images/s.png" bytes read 84539 written 0
+May 12 12:15:33 10.71.57.0 u99678632 [10.71.57.0|get|0|84539|0|0|0|2f6173736574732f696d616765732f732e706e67|]
+May 12 12:15:33 10.71.57.0 u99678632 close "/assets/images/delete-sign.png" bytes read 584 written 0
+May 12 12:15:33 10.71.57.0 u99678632 [10.71.57.0|get|0|584|0|0|0|2f6173736574732f696d616765732f64656c6574652d7369676e2e706e67|]
+May 12 12:15:33 10.71.57.0 u99678632 open "/assets/images/checkmark.png" flags READ mode 0666
+May 12 12:15:33 10.71.57.0 u99678632 open "/assets/images/Untitled-2.ai" flags READ mode 0666
+May 12 12:15:33 10.71.57.0 u99678632 close "/assets/images/checkmark.png" bytes read 486 written 0
+May 12 12:15:33 10.71.57.0 u99678632 [10.71.57.0|get|0|486|0|0|0|2f6173736574732f696d616765732f636865636b6d61726b2e706e67|]
+May 12 12:15:33 10.71.57.0 u99678632 open "/assets/images/switchboo_white.png" flags READ mode 0666
+May 12 12:15:34 10.71.57.0 u99678632 close "/assets/images/switchboo_white.png" bytes read 118316 written 0
+May 12 12:15:34 10.71.57.0 u99678632 [10.71.57.0|get|1|118316|0|0|0|2f6173736574732f696d616765732f737769746368626f6f5f77686974652e706e67|]
+May 12 12:15:34 10.71.57.0 u99678632 open "/assets/images/switchboo_pink.png" flags READ mode 0666
+May 12 12:15:34 10.71.57.0 u99678632 close "/assets/images/switchboo_pink.png" bytes read 109357 written 0
+May 12 12:15:34 10.71.57.0 u99678632 [10.71.57.0|get|0|109357|0|0|0|2f6173736574732f696d616765732f737769746368626f6f5f70696e6b2e706e67|]
+May 12 12:15:34 10.71.57.0 u99678632 open "/assets/images/SSE.png" flags READ mode 0666
+May 12 12:15:34 10.71.57.0 u99678632 close "/assets/images/SSE.png" bytes read 49329 written 0
+May 12 12:15:34 10.71.57.0 u99678632 [10.71.57.0|get|0|49329|0|0|0|2f6173736574732f696d616765732f5353452e706e67|]
+May 12 12:15:34 10.71.57.0 u99678632 close "/assets/images/Untitled-2.ai" bytes read 167896 written 0
+May 12 12:15:34 10.71.57.0 u99678632 [10.71.57.0|get|1|167896|0|0|0|2f6173736574732f696d616765732f556e7469746c65642d322e6169|]
+May 12 12:15:34 10.71.57.0 u99678632 open "/assets/images/Scottish-Power.png" flags READ mode 0666
+May 12 12:15:35 10.71.57.0 u99678632 open "/assets/images/npower.png" flags READ mode 0666
+May 12 12:15:35 10.71.57.0 u99678632 close "/assets/images/Scottish-Power.png" bytes read 109704 written 0
+May 12 12:15:35 10.71.57.0 u99678632 [10.71.57.0|get|1|109704|0|0|0|2f6173736574732f696d616765732f53636f74746973682d506f7765722e706e67|]
+May 12 12:15:35 10.71.57.0 u99678632 open "/assets/images/logo-sparent.png" flags READ mode 0666
+May 12 12:15:35 10.71.57.0 u99678632 close "/assets/images/npower.png" bytes read 72823 written 0
+May 12 12:15:35 10.71.57.0 u99678632 [10.71.57.0|get|0|72823|0|0|0|2f6173736574732f696d616765732f6e706f7765722e706e67|]
+May 12 12:15:35 10.71.57.0 u99678632 close "/assets/images/logo-sparent.png" bytes read 16477 written 0
+May 12 12:15:35 10.71.57.0 u99678632 [10.71.57.0|get|0|16477|0|0|0|2f6173736574732f696d616765732f6c6f676f2d73706172656e742e706e67|]
+May 12 12:15:35 10.71.57.0 u99678632 open "/assets/images/light-bulb.svg" flags READ mode 0666
+May 12 12:15:35 10.71.57.0 u99678632 open "/assets/images/grey-arrow.png" flags READ mode 0666
+May 12 12:15:35 10.71.57.0 u99678632 close "/assets/images/light-bulb.svg" bytes read 2596 written 0
+May 12 12:15:35 10.71.57.0 u99678632 [10.71.57.0|get|0|2596|0|0|0|2f6173736574732f696d616765732f6c696768742d62756c622e737667|]
+May 12 12:15:35 10.71.57.0 u99678632 close "/assets/images/grey-arrow.png" bytes read 1816 written 0
+May 12 12:15:35 10.71.57.0 u99678632 [10.71.57.0|get|0|1816|0|0|0|2f6173736574732f696d616765732f677265792d6172726f772e706e67|]
+May 12 12:15:35 10.71.57.0 u99678632 open "/assets/images/EON.png" flags READ mode 0666
+May 12 12:15:36 10.71.57.0 u99678632 open "/assets/images/EDF.png" flags READ mode 0666
+May 12 12:15:36 10.71.57.0 u99678632 close "/assets/images/EON.png" bytes read 61223 written 0
+May 12 12:15:36 10.71.57.0 u99678632 [10.71.57.0|get|1|61223|0|0|0|2f6173736574732f696d616765732f454f4e2e706e67|]
+May 12 12:15:36 10.71.57.0 u99678632 close "/assets/images/EDF.png" bytes read 11521 written 0
+May 12 12:15:36 10.71.57.0 u99678632 [10.71.57.0|get|0|11521|0|0|0|2f6173736574732f696d616765732f4544462e706e67|]
+May 12 12:15:36 10.71.57.0 u99678632 open "/assets/images/British-gas.png" flags READ mode 0666
+May 12 12:15:36 10.71.57.0 u99678632 open "/assets/images/direct-debit-guarantee.png" flags READ mode 0666
+May 12 12:15:36 10.71.57.0 u99678632 close "/assets/images/British-gas.png" bytes read 43012 written 0
+May 12 12:15:36 10.71.57.0 u99678632 [10.71.57.0|get|0|43012|0|0|0|2f6173736574732f696d616765732f427269746973682d6761732e706e67|]
+May 12 12:15:36 10.71.57.0 u99678632 close "/assets/images/direct-debit-guarantee.png" bytes read 63749 written 0
+May 12 12:15:36 10.71.57.0 u99678632 [10.71.57.0|get|0|63749|0|0|0|2f6173736574732f696d616765732f6469726563742d64656269742d67756172616e7465652e706e67|]
+May 12 12:15:36 10.71.57.0 u99678632 open "/assets/images/logos/Screen Shot 2020-01-16 at 12.55.44.png" flags READ mode 0666
+May 12 12:15:36 10.71.57.0 u99678632 open "/assets/images/logos/Scottish-Power.png" flags READ mode 0666
+May 12 12:15:37 10.71.57.0 u99678632 close "/assets/images/logos/Scottish-Power.png" bytes read 49314 written 0
+May 12 12:15:37 10.71.57.0 u99678632 [10.71.57.0|get|1|49314|0|0|0|2f6173736574732f696d616765732f6c6f676f732f53636f74746973682d506f7765722e706e67|]
+May 12 12:15:37 10.71.57.0 u99678632 close "/assets/images/logos/Screen Shot 2020-01-16 at 12.55.44.png" bytes read 147937 written 0
+May 12 12:15:37 10.71.57.0 u99678632 [10.71.57.0|get|1|147937|0|0|0|2f6173736574732f696d616765732f6c6f676f732f53637265656e2053686f7420323032302d30312d31362061742031322e35352e34342e706e67|]
+May 12 12:15:37 10.71.57.0 u99678632 open "/assets/images/logos/igloo-energy.png" flags READ mode 0666
+May 12 12:15:37 10.71.57.0 u99678632 open "/assets/images/logos/Order.png" flags READ mode 0666
+May 12 12:15:37 10.71.57.0 u99678632 close "/assets/images/logos/igloo-energy.png" bytes read 34494 written 0
+May 12 12:15:37 10.71.57.0 u99678632 [10.71.57.0|get|0|34494|0|0|0|2f6173736574732f696d616765732f6c6f676f732f69676c6f6f2d656e657267792e706e67|]
+May 12 12:15:37 10.71.57.0 u99678632 close "/assets/images/logos/Order.png" bytes read 133285 written 0
+May 12 12:15:37 10.71.57.0 u99678632 [10.71.57.0|get|0|133285|0|0|0|2f6173736574732f696d616765732f6c6f676f732f4f726465722e706e67|]
+May 12 12:15:37 10.71.57.0 u99678632 open "/assets/images/logos/508px-EON_Logo.svg.png" flags READ mode 0666
+May 12 12:15:37 10.71.57.0 u99678632 open "/assets/images/logos/15679582512.png" flags READ mode 0666
+May 12 12:15:37 10.71.57.0 u99678632 close "/assets/images/logos/508px-EON_Logo.svg.png" bytes read 12392 written 0
+May 12 12:15:37 10.71.57.0 u99678632 [10.71.57.0|get|0|12392|0|0|0|2f6173736574732f696d616765732f6c6f676f732f35303870782d454f4e5f4c6f676f2e7376672e706e67|]
+May 12 12:15:37 10.71.57.0 u99678632 close "/assets/images/logos/15679582512.png" bytes read 84429 written 0
+May 12 12:15:37 10.71.57.0 u99678632 [10.71.57.0|get|0|84429|0|0|0|2f6173736574732f696d616765732f6c6f676f732f31353637393538323531322e706e67|]
+May 12 12:15:37 10.71.57.0 u99678632 open "/assets/images/logos/1280px-Ovo_Energy_logo.svg.png" flags READ mode 0666
+May 12 12:15:37 10.71.57.0 u99678632 open "/assets/images/logos/1200px-The_Co-operative_Energy_logo.svg.png" flags READ mode 0666
+May 12 12:15:37 10.71.57.0 u99678632 close "/assets/images/logos/1280px-Ovo_Energy_logo.svg.png" bytes read 44589 written 0
+May 12 12:15:37 10.71.57.0 u99678632 [10.71.57.0|get|0|44589|0|0|0|2f6173736574732f696d616765732f6c6f676f732f3132383070782d4f766f5f456e657267795f6c6f676f2e7376672e706e67|]
+May 12 12:15:38 10.71.57.0 u99678632 close "/assets/images/logos/1200px-The_Co-operative_Energy_logo.svg.png" bytes read 57167 written 0
+May 12 12:15:38 10.71.57.0 u99678632 [10.71.57.0|get|1|57167|0|0|0|2f6173736574732f696d616765732f6c6f676f732f3132303070782d5468655f436f2d6f70657261746976655f456e657267795f6c6f676f2e7376672e706e67|]
+May 12 12:15:38 10.71.57.0 u99678632 open "/assets/images/logos/1200px-SSEenergy.svg.png" flags READ mode 0666
+May 12 12:15:38 10.71.57.0 u99678632 open "/assets/images/logos/1200px-British_Gas_logo.svg.png" flags READ mode 0666
+May 12 12:15:38 10.71.57.0 u99678632 close "/assets/images/logos/1200px-SSEenergy.svg.png" bytes read 49329 written 0
+May 12 12:15:38 10.71.57.0 u99678632 [10.71.57.0|get|0|49329|0|0|0|2f6173736574732f696d616765732f6c6f676f732f3132303070782d535345656e657267792e7376672e706e67|]
+May 12 12:15:38 10.71.57.0 u99678632 close "/assets/images/logos/1200px-British_Gas_logo.svg.png" bytes read 43012 written 0
+May 12 12:15:38 10.71.57.0 u99678632 [10.71.57.0|get|0|43012|0|0|0|2f6173736574732f696d616765732f6c6f676f732f3132303070782d427269746973685f4761735f6c6f676f2e7376672e706e67|]
+May 12 12:15:38 10.71.57.0 u99678632 open "/assets/images/logos/WT.gif" flags READ mode 0666
+May 12 12:15:38 10.71.57.0 u99678632 open "/assets/images/logos/SP.gif" flags READ mode 0666
+May 12 12:15:38 10.71.57.0 u99678632 close "/assets/images/logos/WT.gif" bytes read 2016 written 0
+May 12 12:15:38 10.71.57.0 u99678632 [10.71.57.0|get|0|2016|0|0|0|2f6173736574732f696d616765732f6c6f676f732f57542e676966|]
+May 12 12:15:38 10.71.57.0 u99678632 close "/assets/images/logos/SP.gif" bytes read 1829 written 0
+May 12 12:15:38 10.71.57.0 u99678632 [10.71.57.0|get|0|1829|0|0|0|2f6173736574732f696d616765732f6c6f676f732f53502e676966|]
+May 12 12:15:38 10.71.57.0 u99678632 open "/assets/images/logos/SE.gif" flags READ mode 0666
+May 12 12:15:38 10.71.57.0 u99678632 open "/assets/images/logos/NP.png" flags READ mode 0666
+May 12 12:15:39 10.71.57.0 u99678632 close "/assets/images/logos/SE.gif" bytes read 2745 written 0
+May 12 12:15:39 10.71.57.0 u99678632 [10.71.57.0|get|1|2745|0|0|0|2f6173736574732f696d616765732f6c6f676f732f53452e676966|]
+May 12 12:15:39 10.71.57.0 u99678632 close "/assets/images/logos/NP.png" bytes read 6107 written 0
+May 12 12:15:39 10.71.57.0 u99678632 [10.71.57.0|get|1|6107|0|0|0|2f6173736574732f696d616765732f6c6f676f732f4e502e706e67|]
+May 12 12:15:39 10.71.57.0 u99678632 open "/assets/images/logos/GNE.png" flags READ mode 0666
+May 12 12:15:39 10.71.57.0 u99678632 open "/assets/images/logos/EON.gif" flags READ mode 0666
+May 12 12:15:39 10.71.57.0 u99678632 close "/assets/images/logos/GNE.png" bytes read 6213 written 0
+May 12 12:15:39 10.71.57.0 u99678632 [10.71.57.0|get|0|6213|0|0|0|2f6173736574732f696d616765732f6c6f676f732f474e452e706e67|]
+May 12 12:15:39 10.71.57.0 u99678632 close "/assets/images/logos/EON.gif" bytes read 644 written 0
+May 12 12:15:39 10.71.57.0 u99678632 [10.71.57.0|get|0|644|0|0|0|2f6173736574732f696d616765732f6c6f676f732f454f4e2e676966|]
+May 12 12:15:39 10.71.57.0 u99678632 open "/assets/images/logos/BG.gif" flags READ mode 0666
+May 12 12:15:39 10.71.57.0 u99678632 open "/assets/images/logos/EDF.gif" flags READ mode 0666
+May 12 12:15:39 10.71.57.0 u99678632 close "/assets/images/logos/BG.gif" bytes read 2156 written 0
+May 12 12:15:39 10.71.57.0 u99678632 [10.71.57.0|get|0|2156|0|0|0|2f6173736574732f696d616765732f6c6f676f732f42472e676966|]
+May 12 12:15:39 10.71.57.0 u99678632 close "/assets/images/logos/EDF.gif" bytes read 1576 written 0
+May 12 12:15:39 10.71.57.0 u99678632 [10.71.57.0|get|0|1576|0|0|0|2f6173736574732f696d616765732f6c6f676f732f4544462e676966|]
+May 12 12:15:40 10.71.57.0 u99678632 open "/assets/images/NHS Logos for A4/.DS_Store" flags READ mode 0666
+May 12 12:15:40 10.71.57.0 u99678632 open "/assets/images/NHS Logos for A4/Office Use/NHS 10mm - RGB Black.jpg" flags READ mode 0666
+May 12 12:15:40 10.71.57.0 u99678632 close "/assets/images/NHS Logos for A4/.DS_Store" bytes read 6148 written 0
+May 12 12:15:40 10.71.57.0 u99678632 [10.71.57.0|get|0|6148|0|0|0|2f6173736574732f696d616765732f4e4853204c6f676f7320666f722041342f2e44535f53746f7265|]
+May 12 12:15:40 10.71.57.0 u99678632 close "/assets/images/NHS Logos for A4/Office Use/NHS 10mm - RGB Black.jpg" bytes read 27546 written 0
+May 12 12:15:40 10.71.57.0 u99678632 [10.71.57.0|get|0|27546|0|0|0|2f6173736574732f696d616765732f4e4853204c6f676f7320666f722041342f4f6666696365205573652f4e48532031306d6d202d2052474220426c61636b2e6a7067|]
+May 12 12:15:40 10.71.57.0 u99678632 open "/assets/images/NHS Logos for A4/Office Use/NHS 10mm - RGB Blue on white.jpg" flags READ mode 0666
+May 12 12:15:40 10.71.57.0 u99678632 open "/assets/images/NHS Logos for A4/Professional Use/NHS logo for A4 10mm - RGB White.eps" flags READ mode 0666
+May 12 12:15:40 10.71.57.0 u99678632 close "/assets/images/NHS Logos for A4/Office Use/NHS 10mm - RGB Blue on white.jpg" bytes read 36967 written 0
+May 12 12:15:40 10.71.57.0 u99678632 [10.71.57.0|get|0|36967|0|0|0|2f6173736574732f696d616765732f4e4853204c6f676f7320666f722041342f4f6666696365205573652f4e48532031306d6d202d2052474220426c7565206f6e2077686974652e6a7067|]
+May 12 12:15:40 10.71.57.0 u99678632 open "/assets/images/NHS Logos for A4/Professional Use/NHS logo for A4 10mm - RGB Blue.eps" flags READ mode 0666
+May 12 12:15:41 10.71.57.0 u99678632 close "/assets/images/NHS Logos for A4/Professional Use/NHS logo for A4 10mm - RGB White.eps" bytes read 223410 written 0
+May 12 12:15:41 10.71.57.0 u99678632 [10.71.57.0|get|1|223410|0|0|0|2f6173736574732f696d616765732f4e4853204c6f676f7320666f722041342f50726f66657373696f6e616c205573652f4e4853206c6f676f20666f722041342031306d6d202d205247422057686974652e657073|]
+May 12 12:15:41 10.71.57.0 u99678632 close "/assets/images/NHS Logos for A4/Professional Use/NHS logo for A4 10mm - RGB Blue.eps" bytes read 179992 written 0
+May 12 12:15:41 10.71.57.0 u99678632 [10.71.57.0|get|1|179992|0|0|0|2f6173736574732f696d616765732f4e4853204c6f676f7320666f722041342f50726f66657373696f6e616c205573652f4e4853206c6f676f20666f722041342031306d6d202d2052474220426c75652e657073|]
+May 12 12:15:41 10.71.57.0 u99678632 open "/assets/images/NHS Logos for A4/Professional Use/NHS logo for A4 10mm - PMS White.eps" flags READ mode 0666
+May 12 12:15:41 10.71.57.0 u99678632 open "/assets/images/NHS Logos for A4/Professional Use/NHS logo for A4 10mm - RGB Black.eps" flags READ mode 0666
+May 12 12:15:41 10.71.57.0 u99678632 close "/assets/images/NHS Logos for A4/Professional Use/NHS logo for A4 10mm - RGB Black.eps" bytes read 179997 written 0
+May 12 12:15:41 10.71.57.0 u99678632 [10.71.57.0|get|0|179997|0|0|0|2f6173736574732f696d616765732f4e4853204c6f676f7320666f722041342f50726f66657373696f6e616c205573652f4e4853206c6f676f20666f722041342031306d6d202d2052474220426c61636b2e657073|]
+May 12 12:15:41 10.71.57.0 u99678632 open "/assets/images/NHS Logos for A4/Professional Use/NHS logo for A4 10mm - PMS Blue.eps" flags READ mode 0666
+May 12 12:15:41 10.71.57.0 u99678632 close "/assets/images/NHS Logos for A4/Professional Use/NHS logo for A4 10mm - PMS White.eps" bytes read 936414 written 0
+May 12 12:15:41 10.71.57.0 u99678632 [10.71.57.0|get|0|936414|0|0|0|2f6173736574732f696d616765732f4e4853204c6f676f7320666f722041342f50726f66657373696f6e616c205573652f4e4853206c6f676f20666f722041342031306d6d202d20504d532057686974652e657073|]
+May 12 12:15:42 10.71.57.0 u99678632 open "/assets/images/NHS Logos for A4/Professional Use/NHS logo for A4 10mm - PMS Black.eps" flags READ mode 0666
+May 12 12:15:42 10.71.57.0 u99678632 close "/assets/images/NHS Logos for A4/Professional Use/NHS logo for A4 10mm - PMS Blue.eps" bytes read 190451 written 0
+May 12 12:15:42 10.71.57.0 u99678632 [10.71.57.0|get|1|190451|0|0|0|2f6173736574732f696d616765732f4e4853204c6f676f7320666f722041342f50726f66657373696f6e616c205573652f4e4853206c6f676f20666f722041342031306d6d202d20504d5320426c75652e657073|]
+May 12 12:15:42 10.71.57.0 u99678632 open "/assets/images/NHS Logos for A4/Professional Use/NHS logo for A4 10mm - CMYK White.eps" flags READ mode 0666
+May 12 12:15:42 10.71.57.0 u99678632 close "/assets/images/NHS Logos for A4/Professional Use/NHS logo for A4 10mm - PMS Black.eps" bytes read 190452 written 0
+May 12 12:15:42 10.71.57.0 u99678632 [10.71.57.0|get|0|190452|0|0|0|2f6173736574732f696d616765732f4e4853204c6f676f7320666f722041342f50726f66657373696f6e616c205573652f4e4853206c6f676f20666f722041342031306d6d202d20504d5320426c61636b2e657073|]
+May 12 12:15:42 10.71.57.0 u99678632 open "/assets/images/NHS Logos for A4/Professional Use/NHS logo for A4 10mm - CMYK Blue.eps" flags READ mode 0666
+May 12 12:15:43 10.71.57.0 u99678632 close "/assets/images/NHS Logos for A4/Professional Use/NHS logo for A4 10mm - CMYK Blue.eps" bytes read 180000 written 0
+May 12 12:15:43 10.71.57.0 u99678632 [10.71.57.0|get|1|180000|0|0|0|2f6173736574732f696d616765732f4e4853204c6f676f7320666f722041342f50726f66657373696f6e616c205573652f4e4853206c6f676f20666f722041342031306d6d202d20434d594b20426c75652e657073|]
+May 12 12:15:43 10.71.57.0 u99678632 open "/assets/images/NHS Logos for A4/Professional Use/NHS logo for A4 10mm - CMYK Black.eps" flags READ mode 0666
+May 12 12:15:43 10.71.57.0 u99678632 close "/assets/images/NHS Logos for A4/Professional Use/NHS logo for A4 10mm - CMYK White.eps" bytes read 935606 written 0
+May 12 12:15:43 10.71.57.0 u99678632 [10.71.57.0|get|1|935606|0|0|0|2f6173736574732f696d616765732f4e4853204c6f676f7320666f722041342f50726f66657373696f6e616c205573652f4e4853206c6f676f20666f722041342031306d6d202d20434d594b2057686974652e657073|]
+May 12 12:15:43 10.71.57.0 u99678632 open "/assets/images/NHS Logos for A4/Professional Use/NHS 10mm - RGB Blue on white.eps" flags READ mode 0666
+May 12 12:15:43 10.71.57.0 u99678632 close "/assets/images/NHS Logos for A4/Professional Use/NHS logo for A4 10mm - CMYK Black.eps" bytes read 179990 written 0
+May 12 12:15:43 10.71.57.0 u99678632 [10.71.57.0|get|0|179990|0|0|0|2f6173736574732f696d616765732f4e4853204c6f676f7320666f722041342f50726f66657373696f6e616c205573652f4e4853206c6f676f20666f722041342031306d6d202d20434d594b20426c61636b2e657073|]
+May 12 12:15:43 10.71.57.0 u99678632 close "/assets/images/NHS Logos for A4/Professional Use/NHS 10mm - RGB Blue on white.eps" bytes read 180066 written 0
+May 12 12:15:43 10.71.57.0 u99678632 [10.71.57.0|get|0|180066|0|0|0|2f6173736574732f696d616765732f4e4853204c6f676f7320666f722041342f50726f66657373696f6e616c205573652f4e48532031306d6d202d2052474220426c7565206f6e2077686974652e657073|]
+May 12 12:15:44 10.71.57.0 u99678632 open "/assets/images/NHS Logos for A4/Professional Use/NHS 10mm - PMS Blue on white.eps" flags READ mode 0666
+May 12 12:15:44 10.71.57.0 u99678632 open "/assets/images/NHS Logos for A4/Professional Use/NHS 10mm - CMYK Blue on white.eps" flags READ mode 0666
+May 12 12:15:44 10.71.57.0 u99678632 close "/assets/images/NHS Logos for A4/Professional Use/NHS 10mm - PMS Blue on white.eps" bytes read 193153 written 0
+May 12 12:15:44 10.71.57.0 u99678632 [10.71.57.0|get|0|193153|0|0|0|2f6173736574732f696d616765732f4e4853204c6f676f7320666f722041342f50726f66657373696f6e616c205573652f4e48532031306d6d202d20504d5320426c7565206f6e2077686974652e657073|]
+May 12 12:15:44 10.71.57.0 u99678632 close "/assets/images/NHS Logos for A4/Professional Use/NHS 10mm - CMYK Blue on white.eps" bytes read 180077 written 0
+May 12 12:15:44 10.71.57.0 u99678632 [10.71.57.0|get|0|180077|0|0|0|2f6173736574732f696d616765732f4e4853204c6f676f7320666f722041342f50726f66657373696f6e616c205573652f4e48532031306d6d202d20434d594b20426c7565206f6e2077686974652e657073|]
+May 12 12:15:44 10.71.57.0 u99678632 open "/assets/js/form4.js" flags READ mode 0666
+May 12 12:15:44 10.71.57.0 u99678632 open "/assets/js/main.js" flags READ mode 0666
+May 12 12:15:44 10.71.57.0 u99678632 close "/assets/js/main.js" bytes read 8998 written 0
+May 12 12:15:44 10.71.57.0 u99678632 [10.71.57.0|get|0|8998|0|0|0|2f6173736574732f6a732f6d61696e2e6a73|]
+May 12 12:15:45 10.71.57.0 u99678632 close "/assets/js/form4.js" bytes read 20248 written 0
+May 12 12:15:45 10.71.57.0 u99678632 [10.71.57.0|get|1|20248|0|0|0|2f6173736574732f6a732f666f726d342e6a73|]
+May 12 12:15:45 10.71.57.0 u99678632 open "/assets/js/forms.js" flags READ mode 0666
+May 12 12:15:45 10.71.57.0 u99678632 open "/assets/js/form3.js" flags READ mode 0666
+May 12 12:15:45 10.71.57.0 u99678632 close "/assets/js/form3.js" bytes read 178 written 0
+May 12 12:15:45 10.71.57.0 u99678632 [10.71.57.0|get|0|178|0|0|0|2f6173736574732f6a732f666f726d332e6a73|]
+May 12 12:15:45 10.71.57.0 u99678632 close "/assets/js/forms.js" bytes read 1577 written 0
+May 12 12:15:45 10.71.57.0 u99678632 [10.71.57.0|get|0|1577|0|0|0|2f6173736574732f6a732f666f726d732e6a73|]
+May 12 12:15:45 10.71.57.0 u99678632 open "/assets/js/form2.js" flags READ mode 0666
+May 12 12:15:45 10.71.57.0 u99678632 open "/assets/js/form2.1.js" flags READ mode 0666
+May 12 12:15:45 10.71.57.0 u99678632 close "/assets/js/form2.js" bytes read 30162 written 0
+May 12 12:15:45 10.71.57.0 u99678632 [10.71.57.0|get|0|30162|0|0|0|2f6173736574732f6a732f666f726d322e6a73|]
+May 12 12:15:45 10.71.57.0 u99678632 open "/assets/js/form1-new.js" flags READ mode 0666
+May 12 12:15:45 10.71.57.0 u99678632 close "/assets/js/form2.1.js" bytes read 52213 written 0
+May 12 12:15:45 10.71.57.0 u99678632 [10.71.57.0|get|0|52213|0|0|0|2f6173736574732f6a732f666f726d322e312e6a73|]
+May 12 12:15:46 10.71.57.0 u99678632 open "/assets/vendor/fonts/FSJoeyTrial-Regular.otf" flags READ mode 0666
+May 12 12:15:46 10.71.57.0 u99678632 close "/assets/js/form1-new.js" bytes read 31067 written 0
+May 12 12:15:46 10.71.57.0 u99678632 [10.71.57.0|get|1|31067|0|0|0|2f6173736574732f6a732f666f726d312d6e65772e6a73|]
+May 12 12:15:46 10.71.57.0 u99678632 close "/assets/vendor/fonts/FSJoeyTrial-Regular.otf" bytes read 15384 written 0
+May 12 12:15:46 10.71.57.0 u99678632 [10.71.57.0|get|0|15384|0|0|0|2f6173736574732f76656e646f722f666f6e74732f46534a6f6579547269616c2d526567756c61722e6f7466|]
+May 12 12:15:46 10.71.57.0 u99678632 open "/assets/vendor/fonts/FSJoeyTrial-MediumItalic.otf" flags READ mode 0666
+May 12 12:15:46 10.71.57.0 u99678632 open "/assets/vendor/fonts/FSJoeyTrial-Medium.otf" flags READ mode 0666
+May 12 12:15:46 10.71.57.0 u99678632 close "/assets/vendor/fonts/FSJoeyTrial-MediumItalic.otf" bytes read 16676 written 0
+May 12 12:15:46 10.71.57.0 u99678632 [10.71.57.0|get|0|16676|0|0|0|2f6173736574732f76656e646f722f666f6e74732f46534a6f6579547269616c2d4d656469756d4974616c69632e6f7466|]
+May 12 12:15:46 10.71.57.0 u99678632 close "/assets/vendor/fonts/FSJoeyTrial-Medium.otf" bytes read 14940 written 0
+May 12 12:15:46 10.71.57.0 u99678632 [10.71.57.0|get|0|14940|0|0|0|2f6173736574732f76656e646f722f666f6e74732f46534a6f6579547269616c2d4d656469756d2e6f7466|]
+May 12 12:15:46 10.71.57.0 u99678632 open "/assets/vendor/fonts/FSJoeyTrial-Light.otf" flags READ mode 0666
+May 12 12:15:46 10.71.57.0 u99678632 open "/assets/vendor/fonts/FSJoeyTrial-LightItalic.otf" flags READ mode 0666
+May 12 12:15:46 10.71.57.0 u99678632 close "/assets/vendor/fonts/FSJoeyTrial-Light.otf" bytes read 14748 written 0
+May 12 12:15:46 10.71.57.0 u99678632 [10.71.57.0|get|0|14748|0|0|0|2f6173736574732f76656e646f722f666f6e74732f46534a6f6579547269616c2d4c696768742e6f7466|]
+May 12 12:15:46 10.71.57.0 u99678632 close "/assets/vendor/fonts/FSJoeyTrial-LightItalic.otf" bytes read 15632 written 0
+May 12 12:15:46 10.71.57.0 u99678632 [10.71.57.0|get|0|15632|0|0|0|2f6173736574732f76656e646f722f666f6e74732f46534a6f6579547269616c2d4c696768744974616c69632e6f7466|]
+May 12 12:15:47 10.71.57.0 u99678632 open "/assets/vendor/fonts/FSJoeyTrial-Italic.otf" flags READ mode 0666
+May 12 12:15:47 10.71.57.0 u99678632 open "/assets/vendor/fonts/FSJoeyTrial-HeavyItalic.otf" flags READ mode 0666
+May 12 12:15:47 10.71.57.0 u99678632 close "/assets/vendor/fonts/FSJoeyTrial-Italic.otf" bytes read 16256 written 0
+May 12 12:15:47 10.71.57.0 u99678632 [10.71.57.0|get|0|16256|0|0|0|2f6173736574732f76656e646f722f666f6e74732f46534a6f6579547269616c2d4974616c69632e6f7466|]
+May 12 12:15:47 10.71.57.0 u99678632 close "/assets/vendor/fonts/FSJoeyTrial-HeavyItalic.otf" bytes read 16616 written 0
+May 12 12:15:47 10.71.57.0 u99678632 [10.71.57.0|get|0|16616|0|0|0|2f6173736574732f76656e646f722f666f6e74732f46534a6f6579547269616c2d48656176794974616c69632e6f7466|]
+May 12 12:15:47 10.71.57.0 u99678632 open "/assets/vendor/fonts/FSJoeyTrial-Heavy.otf" flags READ mode 0666
+May 12 12:15:47 10.71.57.0 u99678632 open "/assets/vendor/fonts/FSJoeyTrial-BoldItalic.otf" flags READ mode 0666
+May 12 12:15:47 10.71.57.0 u99678632 close "/assets/vendor/fonts/FSJoeyTrial-Heavy.otf" bytes read 15976 written 0
+May 12 12:15:47 10.71.57.0 u99678632 [10.71.57.0|get|0|15976|0|0|0|2f6173736574732f76656e646f722f666f6e74732f46534a6f6579547269616c2d48656176792e6f7466|]
+May 12 12:15:47 10.71.57.0 u99678632 close "/assets/vendor/fonts/FSJoeyTrial-BoldItalic.otf" bytes read 15340 written 0
+May 12 12:15:47 10.71.57.0 u99678632 [10.71.57.0|get|0|15340|0|0|0|2f6173736574732f76656e646f722f666f6e74732f46534a6f6579547269616c2d426f6c644974616c69632e6f7466|]
+May 12 12:15:47 10.71.57.0 u99678632 open "/assets/vendor/fonts/FSJoeyTrial-Bold.otf" flags READ mode 0666
+May 12 12:15:47 10.71.57.0 u99678632 open "/assets/vendor/fonts/fontawesome-webfont.woff2" flags READ mode 0666
+May 12 12:15:47 10.71.57.0 u99678632 close "/assets/vendor/fonts/fontawesome-webfont.woff2" bytes read 77160 written 0
+May 12 12:15:47 10.71.57.0 u99678632 [10.71.57.0|get|0|77160|0|0|0|2f6173736574732f76656e646f722f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f666632|]
+May 12 12:15:47 10.71.57.0 u99678632 close "/assets/vendor/fonts/FSJoeyTrial-Bold.otf" bytes read 14992 written 0
+May 12 12:15:47 10.71.57.0 u99678632 [10.71.57.0|get|0|14992|0|0|0|2f6173736574732f76656e646f722f666f6e74732f46534a6f6579547269616c2d426f6c642e6f7466|]
+May 12 12:15:48 10.71.57.0 u99678632 open "/assets/vendor/fontawesome/font-awesome.css" flags READ mode 0666
+May 12 12:15:48 10.71.57.0 u99678632 open "/assets/vendor/jquery/jquery.slim.min.map" flags READ mode 0666
+May 12 12:15:48 10.71.57.0 u99678632 close "/assets/vendor/fontawesome/font-awesome.css" bytes read 37413 written 0
+May 12 12:15:48 10.71.57.0 u99678632 [10.71.57.0|get|0|37413|0|0|0|2f6173736574732f76656e646f722f666f6e74617765736f6d652f666f6e742d617765736f6d652e637373|]
+May 12 12:15:48 10.71.57.0 u99678632 close "/assets/vendor/jquery/jquery.slim.min.map" bytes read 108757 written 0
+May 12 12:15:48 10.71.57.0 u99678632 [10.71.57.0|get|0|108757|0|0|0|2f6173736574732f76656e646f722f6a71756572792f6a71756572792e736c696d2e6d696e2e6d6170|]
+May 12 12:15:48 10.71.57.0 u99678632 open "/assets/vendor/jquery/jquery.slim.js" flags READ mode 0666
+May 12 12:15:48 10.71.57.0 u99678632 open "/assets/vendor/jquery/jquery.slim.min.js" flags READ mode 0666
+May 12 12:15:49 10.71.57.0 u99678632 close "/assets/vendor/jquery/jquery.slim.js" bytes read 227022 written 0
+May 12 12:15:49 10.71.57.0 u99678632 [10.71.57.0|get|1|227022|0|0|0|2f6173736574732f76656e646f722f6a71756572792f6a71756572792e736c696d2e6a73|]
+May 12 12:15:49 10.71.57.0 u99678632 close "/assets/vendor/jquery/jquery.slim.min.js" bytes read 71037 written 0
+May 12 12:15:49 10.71.57.0 u99678632 [10.71.57.0|get|1|71037|0|0|0|2f6173736574732f76656e646f722f6a71756572792f6a71756572792e736c696d2e6d696e2e6a73|]
+May 12 12:15:49 10.71.57.0 u99678632 open "/assets/vendor/jquery/jquery.min.map" flags READ mode 0666
+May 12 12:15:49 10.71.57.0 u99678632 open "/assets/vendor/jquery/jquery.min.js" flags READ mode 0666
+May 12 12:15:49 10.71.57.0 u99678632 close "/assets/vendor/jquery/jquery.min.map" bytes read 136397 written 0
+May 12 12:15:49 10.71.57.0 u99678632 [10.71.57.0|get|0|136397|0|0|0|2f6173736574732f76656e646f722f6a71756572792f6a71756572792e6d696e2e6d6170|]
+May 12 12:15:49 10.71.57.0 u99678632 open "/assets/vendor/jquery/jquery.js" flags READ mode 0666
+May 12 12:15:49 10.71.57.0 u99678632 close "/assets/vendor/jquery/jquery.min.js" bytes read 88145 written 0
+May 12 12:15:49 10.71.57.0 u99678632 [10.71.57.0|get|0|88145|0|0|0|2f6173736574732f76656e646f722f6a71756572792f6a71756572792e6d696e2e6a73|]
+May 12 12:15:49 10.71.57.0 u99678632 open "/assets/vendor/jquery/jquery-ui.min.js" flags READ mode 0666
+May 12 12:15:50 10.71.57.0 u99678632 close "/assets/vendor/jquery/jquery.js" bytes read 280364 written 0
+May 12 12:15:50 10.71.57.0 u99678632 [10.71.57.0|get|1|280364|0|0|0|2f6173736574732f76656e646f722f6a71756572792f6a71756572792e6a73|]
+May 12 12:15:50 10.71.57.0 u99678632 close "/assets/vendor/jquery/jquery-ui.min.js" bytes read 240027 written 0
+May 12 12:15:50 10.71.57.0 u99678632 [10.71.57.0|get|1|240027|0|0|0|2f6173736574732f76656e646f722f6a71756572792f6a71756572792d75692e6d696e2e6a73|]
+May 12 12:15:50 10.71.57.0 u99678632 open "/assets/vendor/bootstrap/css/bootstrap.min.css.map" flags READ mode 0666
+May 12 12:15:50 10.71.57.0 u99678632 open "/assets/vendor/bootstrap/css/bootstrap.min.css" flags READ mode 0666
+May 12 12:15:51 10.71.57.0 u99678632 close "/assets/vendor/bootstrap/css/bootstrap.min.css" bytes read 155758 written 0
+May 12 12:15:51 10.71.57.0 u99678632 [10.71.57.0|get|1|155758|0|0|0|2f6173736574732f76656e646f722f626f6f7473747261702f6373732f626f6f7473747261702e6d696e2e637373|]
+May 12 12:15:51 10.71.57.0 u99678632 open "/assets/vendor/bootstrap/css/bootstrap.css.map" flags READ mode 0666
+May 12 12:15:51 10.71.57.0 u99678632 close "/assets/vendor/bootstrap/css/bootstrap.min.css.map" bytes read 625953 written 0
+May 12 12:15:51 10.71.57.0 u99678632 [10.71.57.0|get|1|625953|0|0|0|2f6173736574732f76656e646f722f626f6f7473747261702f6373732f626f6f7473747261702e6d696e2e6373732e6d6170|]
+May 12 12:15:51 10.71.57.0 u99678632 open "/assets/vendor/bootstrap/css/bootstrap.css" flags READ mode 0666
+May 12 12:15:51 10.71.57.0 u99678632 close "/assets/vendor/bootstrap/css/bootstrap.css" bytes read 192348 written 0
+May 12 12:15:51 10.71.57.0 u99678632 [10.71.57.0|get|0|192348|0|0|0|2f6173736574732f76656e646f722f626f6f7473747261702f6373732f626f6f7473747261702e637373|]
+May 12 12:15:51 10.71.57.0 u99678632 close "/assets/vendor/bootstrap/css/bootstrap.css.map" bytes read 492048 written 0
+May 12 12:15:51 10.71.57.0 u99678632 [10.71.57.0|get|0|492048|0|0|0|2f6173736574732f76656e646f722f626f6f7473747261702f6373732f626f6f7473747261702e6373732e6d6170|]
+May 12 12:15:51 10.71.57.0 u99678632 open "/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" flags READ mode 0666
+May 12 12:15:51 10.71.57.0 u99678632 open "/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" flags READ mode 0666
+May 12 12:15:52 10.71.57.0 u99678632 close "/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" bytes read 4021 written 0
+May 12 12:15:52 10.71.57.0 u99678632 [10.71.57.0|get|1|4021|0|0|0|2f6173736574732f76656e646f722f626f6f7473747261702f6373732f626f6f7473747261702d7265626f6f742e6d696e2e637373|]
+May 12 12:15:52 10.71.57.0 u99678632 close "/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" bytes read 32461 written 0
+May 12 12:15:52 10.71.57.0 u99678632 [10.71.57.0|get|1|32461|0|0|0|2f6173736574732f76656e646f722f626f6f7473747261702f6373732f626f6f7473747261702d7265626f6f742e6d696e2e6373732e6d6170|]
+May 12 12:15:52 10.71.57.0 u99678632 open "/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" flags READ mode 0666
+May 12 12:15:52 10.71.57.0 u99678632 open "/assets/vendor/bootstrap/css/bootstrap-reboot.css" flags READ mode 0666
+May 12 12:15:52 10.71.57.0 u99678632 close "/assets/vendor/bootstrap/css/bootstrap-reboot.css" bytes read 4897 written 0
+May 12 12:15:52 10.71.57.0 u99678632 [10.71.57.0|get|0|4897|0|0|0|2f6173736574732f76656e646f722f626f6f7473747261702f6373732f626f6f7473747261702d7265626f6f742e637373|]
+May 12 12:15:52 10.71.57.0 u99678632 close "/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" bytes read 76483 written 0
+May 12 12:15:52 10.71.57.0 u99678632 [10.71.57.0|get|0|76483|0|0|0|2f6173736574732f76656e646f722f626f6f7473747261702f6373732f626f6f7473747261702d7265626f6f742e6373732e6d6170|]
+May 12 12:15:52 10.71.57.0 u99678632 open "/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" flags READ mode 0666
+May 12 12:15:52 10.71.57.0 u99678632 open "/assets/vendor/bootstrap/css/bootstrap-grid.min.css" flags READ mode 0666
+May 12 12:15:52 10.71.57.0 u99678632 close "/assets/vendor/bootstrap/css/bootstrap-grid.min.css" bytes read 48488 written 0
+May 12 12:15:52 10.71.57.0 u99678632 [10.71.57.0|get|0|48488|0|0|0|2f6173736574732f76656e646f722f626f6f7473747261702f6373732f626f6f7473747261702d677269642e6d696e2e637373|]
+May 12 12:15:52 10.71.57.0 u99678632 close "/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" bytes read 108539 written 0
+May 12 12:15:52 10.71.57.0 u99678632 [10.71.57.0|get|0|108539|0|0|0|2f6173736574732f76656e646f722f626f6f7473747261702f6373732f626f6f7473747261702d677269642e6d696e2e6373732e6d6170|]
+May 12 12:15:52 10.71.57.0 u99678632 open "/assets/vendor/bootstrap/css/bootstrap-grid.css.map" flags READ mode 0666
+May 12 12:15:52 10.71.57.0 u99678632 open "/assets/vendor/bootstrap/css/bootstrap-grid.css" flags READ mode 0666
+May 12 12:15:53 10.71.57.0 u99678632 close "/assets/vendor/bootstrap/css/bootstrap-grid.css" bytes read 64548 written 0
+May 12 12:15:53 10.71.57.0 u99678632 [10.71.57.0|get|1|64548|0|0|0|2f6173736574732f76656e646f722f626f6f7473747261702f6373732f626f6f7473747261702d677269642e637373|]
+May 12 12:15:53 10.71.57.0 u99678632 close "/assets/vendor/bootstrap/css/bootstrap-grid.css.map" bytes read 151749 written 0
+May 12 12:15:53 10.71.57.0 u99678632 [10.71.57.0|get|1|151749|0|0|0|2f6173736574732f76656e646f722f626f6f7473747261702f6373732f626f6f7473747261702d677269642e6373732e6d6170|]
+May 12 12:15:53 10.71.57.0 u99678632 open "/assets/vendor/bootstrap/js/bootstrap.min.js.map" flags READ mode 0666
+May 12 12:15:53 10.71.57.0 u99678632 open "/assets/vendor/bootstrap/js/bootstrap.min.js" flags READ mode 0666
+May 12 12:15:53 10.71.57.0 u99678632 close "/assets/vendor/bootstrap/js/bootstrap.min.js.map" bytes read 190253 written 0
+May 12 12:15:53 10.71.57.0 u99678632 [10.71.57.0|get|0|190253|0|0|0|2f6173736574732f76656e646f722f626f6f7473747261702f6a732f626f6f7473747261702e6d696e2e6a732e6d6170|]
+May 12 12:15:53 10.71.57.0 u99678632 close "/assets/vendor/bootstrap/js/bootstrap.min.js" bytes read 58072 written 0
+May 12 12:15:53 10.71.57.0 u99678632 [10.71.57.0|get|0|58072|0|0|0|2f6173736574732f76656e646f722f626f6f7473747261702f6a732f626f6f7473747261702e6d696e2e6a73|]
+May 12 12:15:53 10.71.57.0 u99678632 open "/assets/vendor/bootstrap/js/bootstrap.js.map" flags READ mode 0666
+May 12 12:15:53 10.71.57.0 u99678632 open "/assets/vendor/bootstrap/js/bootstrap.js" flags READ mode 0666
+May 12 12:15:54 10.71.57.0 u99678632 close "/assets/vendor/bootstrap/js/bootstrap.js.map" bytes read 250568 written 0
+May 12 12:15:54 10.71.57.0 u99678632 [10.71.57.0|get|1|250568|0|0|0|2f6173736574732f76656e646f722f626f6f7473747261702f6a732f626f6f7473747261702e6a732e6d6170|]
+May 12 12:15:54 10.71.57.0 u99678632 open "/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" flags READ mode 0666
+May 12 12:15:54 10.71.57.0 u99678632 close "/assets/vendor/bootstrap/js/bootstrap.js" bytes read 131637 written 0
+May 12 12:15:54 10.71.57.0 u99678632 [10.71.57.0|get|1|131637|0|0|0|2f6173736574732f76656e646f722f626f6f7473747261702f6a732f626f6f7473747261702e6a73|]
+May 12 12:15:54 10.71.57.0 u99678632 open "/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" flags READ mode 0666
+May 12 12:15:54 10.71.57.0 u99678632 close "/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" bytes read 311949 written 0
+May 12 12:15:54 10.71.57.0 u99678632 [10.71.57.0|get|0|311949|0|0|0|2f6173736574732f76656e646f722f626f6f7473747261702f6a732f626f6f7473747261702e62756e646c652e6d696e2e6a732e6d6170|]
+May 12 12:15:54 10.71.57.0 u99678632 open "/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" flags READ mode 0666
+May 12 12:15:54 10.71.57.0 u99678632 close "/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" bytes read 78635 written 0
+May 12 12:15:54 10.71.57.0 u99678632 [10.71.57.0|get|0|78635|0|0|0|2f6173736574732f76656e646f722f626f6f7473747261702f6a732f626f6f7473747261702e62756e646c652e6d696e2e6a73|]
+May 12 12:15:54 10.71.57.0 u99678632 open "/assets/vendor/bootstrap/js/bootstrap.bundle.js" flags READ mode 0666
+May 12 12:15:56 10.71.57.0 u99678632 close "/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" bytes read 402249 written 0
+May 12 12:15:56 10.71.57.0 u99678632 [10.71.57.0|get|2|402249|0|0|0|2f6173736574732f76656e646f722f626f6f7473747261702f6a732f626f6f7473747261702e62756e646c652e6a732e6d6170|]
+May 12 12:15:56 10.71.57.0 u99678632 close "/assets/vendor/bootstrap/js/bootstrap.bundle.js" bytes read 222911 written 0
+May 12 12:15:56 10.71.57.0 u99678632 [10.71.57.0|get|2|222911|0|0|0|2f6173736574732f76656e646f722f626f6f7473747261702f6a732f626f6f7473747261702e62756e646c652e6a73|]
+May 12 12:15:56 10.71.57.0 u99678632 open "/assets/favicon/favicon.ico" flags READ mode 0666
+May 12 12:15:56 10.71.57.0 u99678632 open "/assets/favicon/favicon-96.png" flags READ mode 0666
+May 12 12:15:56 10.71.57.0 u99678632 close "/assets/favicon/favicon-96.png" bytes read 2193 written 0
+May 12 12:15:56 10.71.57.0 u99678632 [10.71.57.0|get|0|2193|0|0|0|2f6173736574732f66617669636f6e2f66617669636f6e2d39362e706e67|]
+May 12 12:15:56 10.71.57.0 u99678632 close "/assets/favicon/favicon.ico" bytes read 22382 written 0
+May 12 12:15:56 10.71.57.0 u99678632 [10.71.57.0|get|0|22382|0|0|0|2f6173736574732f66617669636f6e2f66617669636f6e2e69636f|]
+May 12 12:15:57 10.71.57.0 u99678632 open "/assets/favicon/favicon-72.png" flags READ mode 0666
+May 12 12:15:57 10.71.57.0 u99678632 open "/assets/favicon/favicon-76.png" flags READ mode 0666
+May 12 12:15:57 10.71.57.0 u99678632 close "/assets/favicon/favicon-76.png" bytes read 1908 written 0
+May 12 12:15:57 10.71.57.0 u99678632 [10.71.57.0|get|0|1908|0|0|0|2f6173736574732f66617669636f6e2f66617669636f6e2d37362e706e67|]
+May 12 12:15:57 10.71.57.0 u99678632 close "/assets/favicon/favicon-72.png" bytes read 1853 written 0
+May 12 12:15:57 10.71.57.0 u99678632 [10.71.57.0|get|0|1853|0|0|0|2f6173736574732f66617669636f6e2f66617669636f6e2d37322e706e67|]
+May 12 12:15:57 10.71.57.0 u99678632 open "/assets/favicon/favicon-70.png" flags READ mode 0666
+May 12 12:15:57 10.71.57.0 u99678632 open "/assets/favicon/favicon-64.png" flags READ mode 0666
+May 12 12:15:57 10.71.57.0 u99678632 close "/assets/favicon/favicon-70.png" bytes read 1855 written 0
+May 12 12:15:57 10.71.57.0 u99678632 [10.71.57.0|get|0|1855|0|0|0|2f6173736574732f66617669636f6e2f66617669636f6e2d37302e706e67|]
+May 12 12:15:57 10.71.57.0 u99678632 close "/assets/favicon/favicon-64.png" bytes read 1700 written 0
+May 12 12:15:57 10.71.57.0 u99678632 [10.71.57.0|get|0|1700|0|0|0|2f6173736574732f66617669636f6e2f66617669636f6e2d36342e706e67|]
+May 12 12:15:57 10.71.57.0 u99678632 open "/assets/favicon/favicon-60.png" flags READ mode 0666
+May 12 12:15:57 10.71.57.0 u99678632 open "/assets/favicon/favicon-57.png" flags READ mode 0666
+May 12 12:15:57 10.71.57.0 u99678632 close "/assets/favicon/favicon-60.png" bytes read 1663 written 0
+May 12 12:15:57 10.71.57.0 u99678632 close "/assets/favicon/favicon-57.png" bytes read 1621 written 0
+May 12 12:15:57 10.71.57.0 u99678632 [10.71.57.0|get|0|1621|0|0|0|2f6173736574732f66617669636f6e2f66617669636f6e2d35372e706e67|]
+May 12 12:15:57 10.71.57.0 u99678632 [10.71.57.0|get|0|1663|0|0|0|2f6173736574732f66617669636f6e2f66617669636f6e2d36302e706e67|]
+May 12 12:15:57 10.71.57.0 u99678632 open "/assets/favicon/favicon-32.png" flags READ mode 0666
+May 12 12:15:57 10.71.57.0 u99678632 open "/assets/favicon/favicon-310.png" flags READ mode 0666
+May 12 12:15:57 10.71.57.0 u99678632 close "/assets/favicon/favicon-32.png" bytes read 1125 written 0
+May 12 12:15:57 10.71.57.0 u99678632 [10.71.57.0|get|0|1125|0|0|0|2f6173736574732f66617669636f6e2f66617669636f6e2d33322e706e67|]
+May 12 12:15:58 10.71.57.0 u99678632 close "/assets/favicon/favicon-310.png" bytes read 7447 written 0
+May 12 12:15:58 10.71.57.0 u99678632 [10.71.57.0|get|0|7447|0|0|0|2f6173736574732f66617669636f6e2f66617669636f6e2d3331302e706e67|]
+May 12 12:15:58 10.71.57.0 u99678632 open "/assets/favicon/favicon-192.png" flags READ mode 0666
+May 12 12:15:58 10.71.57.0 u99678632 open "/assets/favicon/favicon-180.png" flags READ mode 0666
+May 12 12:15:58 10.71.57.0 u99678632 close "/assets/favicon/favicon-192.png" bytes read 3490 written 0
+May 12 12:15:58 10.71.57.0 u99678632 [10.71.57.0|get|0|3490|0|0|0|2f6173736574732f66617669636f6e2f66617669636f6e2d3139322e706e67|]
+May 12 12:15:58 10.71.57.0 u99678632 close "/assets/favicon/favicon-180.png" bytes read 3358 written 0
+May 12 12:15:58 10.71.57.0 u99678632 [10.71.57.0|get|0|3358|0|0|0|2f6173736574732f66617669636f6e2f66617669636f6e2d3138302e706e67|]
+May 12 12:15:58 10.71.57.0 u99678632 open "/assets/favicon/favicon-160.png" flags READ mode 0666
+May 12 12:15:58 10.71.57.0 u99678632 open "/assets/favicon/favicon-16.png" flags READ mode 0666
+May 12 12:15:58 10.71.57.0 u99678632 close "/assets/favicon/favicon-160.png" bytes read 3104 written 0
+May 12 12:15:58 10.71.57.0 u99678632 [10.71.57.0|get|0|3104|0|0|0|2f6173736574732f66617669636f6e2f66617669636f6e2d3136302e706e67|]
+May 12 12:15:58 10.71.57.0 u99678632 close "/assets/favicon/favicon-16.png" bytes read 824 written 0
+May 12 12:15:58 10.71.57.0 u99678632 [10.71.57.0|get|0|824|0|0|0|2f6173736574732f66617669636f6e2f66617669636f6e2d31362e706e67|]
+May 12 12:15:58 10.71.57.0 u99678632 open "/assets/favicon/favicon-152.png" flags READ mode 0666
+May 12 12:15:58 10.71.57.0 u99678632 open "/assets/favicon/favicon-150.png" flags READ mode 0666
+May 12 12:15:58 10.71.57.0 u99678632 close "/assets/favicon/favicon-152.png" bytes read 3008 written 0
+May 12 12:15:58 10.71.57.0 u99678632 [10.71.57.0|get|0|3008|0|0|0|2f6173736574732f66617669636f6e2f66617669636f6e2d3135322e706e67|]
+May 12 12:15:58 10.71.57.0 u99678632 close "/assets/favicon/favicon-150.png" bytes read 2976 written 0
+May 12 12:15:58 10.71.57.0 u99678632 [10.71.57.0|get|0|2976|0|0|0|2f6173736574732f66617669636f6e2f66617669636f6e2d3135302e706e67|]
+May 12 12:15:58 10.71.57.0 u99678632 open "/assets/favicon/favicon-144.png" flags READ mode 0666
+May 12 12:15:58 10.71.57.0 u99678632 open "/assets/favicon/favicon-120.png" flags READ mode 0666
+May 12 12:15:58 10.71.57.0 u99678632 close "/assets/favicon/favicon-144.png" bytes read 2847 written 0
+May 12 12:15:58 10.71.57.0 u99678632 [10.71.57.0|get|0|2847|0|0|0|2f6173736574732f66617669636f6e2f66617669636f6e2d3134342e706e67|]
+May 12 12:15:59 10.71.57.0 u99678632 close "/assets/favicon/favicon-120.png" bytes read 2516 written 0
+May 12 12:15:59 10.71.57.0 u99678632 [10.71.57.0|get|1|2516|0|0|0|2f6173736574732f66617669636f6e2f66617669636f6e2d3132302e706e67|]
+May 12 12:15:59 10.71.57.0 u99678632 open "/assets/favicon/browserconfig.xml" flags READ mode 0666
+May 12 12:15:59 10.71.57.0 u99678632 open "/assets/favicon/favicon-114.png" flags READ mode 0666
+May 12 12:15:59 10.71.57.0 u99678632 close "/assets/favicon/browserconfig.xml" bytes read 315 written 0
+May 12 12:15:59 10.71.57.0 u99678632 [10.71.57.0|get|0|315|0|0|0|2f6173736574732f66617669636f6e2f62726f77736572636f6e6669672e786d6c|]
+May 12 12:15:59 10.71.57.0 u99678632 close "/assets/favicon/favicon-114.png" bytes read 2503 written 0
+May 12 12:15:59 10.71.57.0 u99678632 [10.71.57.0|get|0|2503|0|0|0|2f6173736574732f66617669636f6e2f66617669636f6e2d3131342e706e67|]
+May 12 12:15:59 10.71.57.0 u99678632 open "/assets/fonts/Muli-SemiBoldItalic.ttf" flags READ mode 0666
+May 12 12:15:59 10.71.57.0 u99678632 open "/assets/fonts/Muli-SemiBold.ttf" flags READ mode 0666
+May 12 12:15:59 10.71.57.0 u99678632 close "/assets/fonts/Muli-SemiBold.ttf" bytes read 89340 written 0
+May 12 12:15:59 10.71.57.0 u99678632 [10.71.57.0|get|0|89340|0|0|0|2f6173736574732f666f6e74732f4d756c692d53656d69426f6c642e747466|]
+May 12 12:15:59 10.71.57.0 u99678632 open "/assets/fonts/Muli-MediumItalic.ttf" flags READ mode 0666
+May 12 12:16:00 10.71.57.0 u99678632 close "/assets/fonts/Muli-SemiBoldItalic.ttf" bytes read 90728 written 0
+May 12 12:16:00 10.71.57.0 u99678632 [10.71.57.0|get|1|90728|0|0|0|2f6173736574732f666f6e74732f4d756c692d53656d69426f6c644974616c69632e747466|]
+May 12 12:16:00 10.71.57.0 u99678632 close "/assets/fonts/Muli-MediumItalic.ttf" bytes read 90680 written 0
+May 12 12:16:00 10.71.57.0 u99678632 [10.71.57.0|get|1|90680|0|0|0|2f6173736574732f666f6e74732f4d756c692d4d656469756d4974616c69632e747466|]
+May 12 12:16:00 10.71.57.0 u99678632 open "/assets/fonts/Muli-Regular.ttf" flags READ mode 0666
+May 12 12:16:00 10.71.57.0 u99678632 open "/assets/fonts/Muli-LightItalic.ttf" flags READ mode 0666
+May 12 12:16:00 10.71.57.0 u99678632 close "/assets/fonts/Muli-Regular.ttf" bytes read 89244 written 0
+May 12 12:16:00 10.71.57.0 u99678632 [10.71.57.0|get|0|89244|0|0|0|2f6173736574732f666f6e74732f4d756c692d526567756c61722e747466|]
+May 12 12:16:00 10.71.57.0 u99678632 open "/assets/fonts/Muli-Medium.ttf" flags READ mode 0666
+May 12 12:16:00 10.71.57.0 u99678632 close "/assets/fonts/Muli-LightItalic.ttf" bytes read 90632 written 0
+May 12 12:16:00 10.71.57.0 u99678632 [10.71.57.0|get|0|90632|0|0|0|2f6173736574732f666f6e74732f4d756c692d4c696768744974616c69632e747466|]
+May 12 12:16:00 10.71.57.0 u99678632 open "/assets/fonts/Muli-Light.ttf" flags READ mode 0666
+May 12 12:16:00 10.71.57.0 u99678632 close "/assets/fonts/Muli-Medium.ttf" bytes read 89296 written 0
+May 12 12:16:00 10.71.57.0 u99678632 [10.71.57.0|get|0|89296|0|0|0|2f6173736574732f666f6e74732f4d756c692d4d656469756d2e747466|]
+May 12 12:16:00 10.71.57.0 u99678632 open "/assets/fonts/Muli-Italic.ttf" flags READ mode 0666
+May 12 12:16:00 10.71.57.0 u99678632 close "/assets/fonts/Muli-Light.ttf" bytes read 89268 written 0
+May 12 12:16:00 10.71.57.0 u99678632 [10.71.57.0|get|0|89268|0|0|0|2f6173736574732f666f6e74732f4d756c692d4c696768742e747466|]
+May 12 12:16:01 10.71.57.0 u99678632 open "/assets/fonts/Muli-ExtraLightItalic.ttf" flags READ mode 0666
+May 12 12:16:01 10.71.57.0 u99678632 close "/assets/fonts/Muli-Italic.ttf" bytes read 90604 written 0
+May 12 12:16:01 10.71.57.0 u99678632 [10.71.57.0|get|1|90604|0|0|0|2f6173736574732f666f6e74732f4d756c692d4974616c69632e747466|]
+May 12 12:16:01 10.71.57.0 u99678632 open "/assets/fonts/Muli-ExtraLight.ttf" flags READ mode 0666
+May 12 12:16:01 10.71.57.0 u99678632 close "/assets/fonts/Muli-ExtraLightItalic.ttf" bytes read 90688 written 0
+May 12 12:16:01 10.71.57.0 u99678632 [10.71.57.0|get|0|90688|0|0|0|2f6173736574732f666f6e74732f4d756c692d45787472614c696768744974616c69632e747466|]
+May 12 12:16:01 10.71.57.0 u99678632 open "/assets/fonts/Muli-ExtraBoldItalic.ttf" flags READ mode 0666
+May 12 12:16:01 10.71.57.0 u99678632 close "/assets/fonts/Muli-ExtraLight.ttf" bytes read 89304 written 0
+May 12 12:16:01 10.71.57.0 u99678632 [10.71.57.0|get|0|89304|0|0|0|2f6173736574732f666f6e74732f4d756c692d45787472614c696768742e747466|]
+May 12 12:16:01 10.71.57.0 u99678632 open "/assets/fonts/Muli-ExtraBold.ttf" flags READ mode 0666
+May 12 12:16:01 10.71.57.0 u99678632 close "/assets/fonts/Muli-ExtraBoldItalic.ttf" bytes read 90740 written 0
+May 12 12:16:01 10.71.57.0 u99678632 [10.71.57.0|get|0|90740|0|0|0|2f6173736574732f666f6e74732f4d756c692d4578747261426f6c644974616c69632e747466|]
+May 12 12:16:02 10.71.57.0 u99678632 open "/assets/fonts/Muli-BoldItalic.ttf" flags READ mode 0666
+May 12 12:16:02 10.71.57.0 u99678632 close "/assets/fonts/Muli-ExtraBold.ttf" bytes read 89288 written 0
+May 12 12:16:02 10.71.57.0 u99678632 [10.71.57.0|get|1|89288|0|0|0|2f6173736574732f666f6e74732f4d756c692d4578747261426f6c642e747466|]
+May 12 12:16:02 10.71.57.0 u99678632 open "/assets/fonts/Muli-Bold.ttf" flags READ mode 0666
+May 12 12:16:02 10.71.57.0 u99678632 close "/assets/fonts/Muli-Bold.ttf" bytes read 89272 written 0
+May 12 12:16:02 10.71.57.0 u99678632 [10.71.57.0|get|0|89272|0|0|0|2f6173736574732f666f6e74732f4d756c692d426f6c642e747466|]
+May 12 12:16:02 10.71.57.0 u99678632 open "/assets/fonts/Muli-BlackItalic.ttf" flags READ mode 0666
+May 12 12:16:02 10.71.57.0 u99678632 close "/assets/fonts/Muli-BoldItalic.ttf" bytes read 90660 written 0
+May 12 12:16:02 10.71.57.0 u99678632 [10.71.57.0|get|0|90660|0|0|0|2f6173736574732f666f6e74732f4d756c692d426f6c644974616c69632e747466|]
+May 12 12:16:02 10.71.57.0 u99678632 open "/assets/fonts/Muli-Black.ttf" flags READ mode 0666
+May 12 12:16:03 10.71.57.0 u99678632 close "/assets/fonts/Muli-BlackItalic.ttf" bytes read 90716 written 0
+May 12 12:16:03 10.71.57.0 u99678632 [10.71.57.0|get|1|90716|0|0|0|2f6173736574732f666f6e74732f4d756c692d426c61636b4974616c69632e747466|]
+May 12 12:16:03 10.71.57.0 u99678632 close "/assets/fonts/Muli-Black.ttf" bytes read 89288 written 0
+May 12 12:16:03 10.71.57.0 u99678632 [10.71.57.0|get|1|89288|0|0|0|2f6173736574732f666f6e74732f4d756c692d426c61636b2e747466|]
+May 12 12:16:03 10.71.57.0 u99678632 open "/base/main.css" flags READ mode 0666
+May 12 12:16:03 10.71.57.0 u99678632 open "/base/index.php" flags READ mode 0666
+May 12 12:16:03 10.71.57.0 u99678632 close "/base/main.css" bytes read 2373 written 0
+May 12 12:16:03 10.71.57.0 u99678632 [10.71.57.0|get|0|2373|0|0|0|2f626173652f6d61696e2e637373|]
+May 12 12:16:03 10.71.57.0 u99678632 close "/base/index.php" bytes read 11183 written 0
+May 12 12:16:03 10.71.57.0 u99678632 [10.71.57.0|get|0|11183|0|0|0|2f626173652f696e6465782e706870|]
+May 12 12:16:03 10.71.57.0 u99678632 open "/competition/index.php" flags READ mode 0666
+May 12 12:16:04 10.71.57.0 u99678632 open "/contact/index.php" flags READ mode 0666
+May 12 12:16:04 10.71.57.0 u99678632 close "/competition/index.php" bytes read 15781 written 0
+May 12 12:16:04 10.71.57.0 u99678632 [10.71.57.0|get|1|15781|0|0|0|2f636f6d7065746974696f6e2f696e6465782e706870|]
+May 12 12:16:04 10.71.57.0 u99678632 close "/contact/index.php" bytes read 6383 written 0
+May 12 12:16:04 10.71.57.0 u99678632 [10.71.57.0|get|0|6383|0|0|0|2f636f6e746163742f696e6465782e706870|]
+May 12 12:16:04 10.71.57.0 u99678632 open "/contact/main.css" flags READ mode 0666
+May 12 12:16:04 10.71.57.0 u99678632 close "/contact/main.css" bytes read 2111 written 0
+May 12 12:16:04 10.71.57.0 u99678632 [10.71.57.0|get|0|2111|0|0|0|2f636f6e746163742f6d61696e2e637373|]
+May 12 12:16:04 10.71.57.0 u99678632 open "/energy/1/index.php" flags READ mode 0666
+May 12 12:16:04 10.71.57.0 u99678632 open "/energy/2/mystyle.css" flags READ mode 0666
+May 12 12:16:04 10.71.57.0 u99678632 close "/energy/1/index.php" bytes read 38638 written 0
+May 12 12:16:04 10.71.57.0 u99678632 [10.71.57.0|get|0|38638|0|0|0|2f656e657267792f312f696e6465782e706870|]
+May 12 12:16:05 10.71.57.0 u99678632 open "/energy/2/indexold.php" flags READ mode 0666
+May 12 12:16:05 10.71.57.0 u99678632 close "/energy/2/mystyle.css" bytes read 9815 written 0
+May 12 12:16:05 10.71.57.0 u99678632 [10.71.57.0|get|1|9815|0|0|0|2f656e657267792f322f6d797374796c652e637373|]
+May 12 12:16:05 10.71.57.0 u99678632 open "/energy/2/main.css" flags READ mode 0666
+May 12 12:16:05 10.71.57.0 u99678632 close "/energy/2/indexold.php" bytes read 5818 written 0
+May 12 12:16:05 10.71.57.0 u99678632 [10.71.57.0|get|0|5818|0|0|0|2f656e657267792f322f696e6465786f6c642e706870|]
+May 12 12:16:05 10.71.57.0 u99678632 close "/energy/2/main.css" bytes read 201 written 0
+May 12 12:16:05 10.71.57.0 u99678632 [10.71.57.0|get|0|201|0|0|0|2f656e657267792f322f6d61696e2e637373|]
+May 12 12:16:05 10.71.57.0 u99678632 open "/energy/2/proxy.php" flags READ mode 0666
+May 12 12:16:05 10.71.57.0 u99678632 open "/energy/2/index.php" flags READ mode 0666
+May 12 12:16:05 10.71.57.0 u99678632 close "/energy/2/index.php" bytes read 18834 written 0
+May 12 12:16:05 10.71.57.0 u99678632 [10.71.57.0|get|0|18834|0|0|0|2f656e657267792f322f696e6465782e706870|]
+May 12 12:16:06 10.71.57.0 u99678632 open "/energy/2/assets/logo3.png" flags READ mode 0666
+May 12 12:16:06 10.71.57.0 u99678632 close "/energy/2/proxy.php" bytes read 7398 written 0
+May 12 12:16:06 10.71.57.0 u99678632 [10.71.57.0|get|1|7398|0|0|0|2f656e657267792f322f70726f78792e706870|]
+May 12 12:16:06 10.71.57.0 u99678632 close "/energy/2/assets/logo3.png" bytes read 41968 written 0
+May 12 12:16:06 10.71.57.0 u99678632 [10.71.57.0|get|0|41968|0|0|0|2f656e657267792f322f6173736574732f6c6f676f332e706e67|]
+May 12 12:16:06 10.71.57.0 u99678632 open "/energy/2/assets/logo2.png" flags READ mode 0666
+May 12 12:16:06 10.71.57.0 u99678632 open "/energy/2/assets/logo1.png" flags READ mode 0666
+May 12 12:16:07 10.71.57.0 u99678632 close "/energy/2/assets/logo2.png" bytes read 31345 written 0
+May 12 12:16:07 10.71.57.0 u99678632 [10.71.57.0|get|1|31345|0|0|0|2f656e657267792f322f6173736574732f6c6f676f322e706e67|]
+May 12 12:16:07 10.71.57.0 u99678632 close "/energy/2/assets/logo1.png" bytes read 49547 written 0
+May 12 12:16:07 10.71.57.0 u99678632 [10.71.57.0|get|1|49547|0|0|0|2f656e657267792f322f6173736574732f6c6f676f312e706e67|]
+May 12 12:16:07 10.71.57.0 u99678632 open "/energy/2/assets/bootstrap.min.js" flags READ mode 0666
+May 12 12:16:07 10.71.57.0 u99678632 open "/energy/3/proxy.php" flags READ mode 0666
+May 12 12:16:08 10.71.57.0 u99678632 close "/energy/3/proxy.php" bytes read 7398 written 0
+May 12 12:16:08 10.71.57.0 u99678632 [10.71.57.0|get|1|7398|0|0|0|2f656e657267792f332f70726f78792e706870|]
+May 12 12:16:08 10.71.57.0 u99678632 open "/energy/3/index.php" flags READ mode 0666
+May 12 12:16:08 10.71.57.0 u99678632 close "/energy/3/index.php" bytes read 44774 written 0
+May 12 12:16:08 10.71.57.0 u99678632 [10.71.57.0|get|0|44774|0|0|0|2f656e657267792f332f696e6465782e706870|]
+May 12 12:16:08 10.71.57.0 u99678632 close "/energy/2/assets/bootstrap.min.js" bytes read 60010 written 0
+May 12 12:16:08 10.71.57.0 u99678632 [10.71.57.0|get|1|60010|0|0|0|2f656e657267792f322f6173736574732f626f6f7473747261702e6d696e2e6a73|]
+May 12 12:16:08 10.71.57.0 u99678632 open "/energy/4/index.php" flags READ mode 0666
+May 12 12:16:08 10.71.57.0 u99678632 open "/help/script.js" flags READ mode 0666
+May 12 12:16:09 10.71.57.0 u99678632 close "/energy/4/index.php" bytes read 7138 written 0
+May 12 12:16:09 10.71.57.0 u99678632 [10.71.57.0|get|1|7138|0|0|0|2f656e657267792f342f696e6465782e706870|]
+May 12 12:16:09 10.71.57.0 u99678632 open "/help/data.json" flags READ mode 0666
+May 12 12:16:09 10.71.57.0 u99678632 close "/help/script.js" bytes read 1930 written 0
+May 12 12:16:09 10.71.57.0 u99678632 [10.71.57.0|get|1|1930|0|0|0|2f68656c702f7363726970742e6a73|]
+May 12 12:16:09 10.71.57.0 u99678632 open "/help/main.css" flags READ mode 0666
+May 12 12:16:09 10.71.57.0 u99678632 close "/help/main.css" bytes read 3387 written 0
+May 12 12:16:09 10.71.57.0 u99678632 [10.71.57.0|get|0|3387|0|0|0|2f68656c702f6d61696e2e637373|]
+May 12 12:16:09 10.71.57.0 u99678632 open "/help/index.php" flags READ mode 0666
+May 12 12:16:10 10.71.57.0 u99678632 close "/help/data.json" bytes read 8980 written 0
+May 12 12:16:10 10.71.57.0 u99678632 [10.71.57.0|get|1|8980|0|0|0|2f68656c702f646174612e6a736f6e|]
+May 12 12:16:10 10.71.57.0 u99678632 close "/help/index.php" bytes read 12266 written 0
+May 12 12:16:10 10.71.57.0 u99678632 [10.71.57.0|get|1|12266|0|0|0|2f68656c702f696e6465782e706870|]
+May 12 12:16:10 10.71.57.0 u99678632 open "/help/auto/jquery.easy-autocomplete.min.js" flags READ mode 0666
+May 12 12:16:10 10.71.57.0 u99678632 open "/help/auto/jquery.easy-autocomplete.js" flags READ mode 0666
+May 12 12:16:11 10.71.57.0 u99678632 close "/help/auto/jquery.easy-autocomplete.min.js" bytes read 15833 written 0
+May 12 12:16:11 10.71.57.0 u99678632 [10.71.57.0|get|1|15833|0|0|0|2f68656c702f6175746f2f6a71756572792e656173792d6175746f636f6d706c6574652e6d696e2e6a73|]
+May 12 12:16:11 10.71.57.0 u99678632 open "/help/auto/easy-autocomplete.themes.min.css" flags READ mode 0666
+May 12 12:16:11 10.71.57.0 u99678632 close "/help/auto/jquery.easy-autocomplete.js" bytes read 36246 written 0
+May 12 12:16:11 10.71.57.0 u99678632 [10.71.57.0|get|1|36246|0|0|0|2f68656c702f6175746f2f6a71756572792e656173792d6175746f636f6d706c6574652e6a73|]
+May 12 12:16:11 10.71.57.0 u99678632 close "/help/auto/easy-autocomplete.themes.min.css" bytes read 5277 written 0
+May 12 12:16:11 10.71.57.0 u99678632 [10.71.57.0|get|0|5277|0|0|0|2f68656c702f6175746f2f656173792d6175746f636f6d706c6574652e7468656d65732e6d696e2e637373|]
+May 12 12:16:11 10.71.57.0 u99678632 open "/help/auto/easy-autocomplete.themes.css" flags READ mode 0666
+May 12 12:16:11 10.71.57.0 u99678632 open "/help/auto/easy-autocomplete.min.css" flags READ mode 0666
+May 12 12:16:12 10.71.57.0 u99678632 close "/help/auto/easy-autocomplete.themes.css" bytes read 6197 written 0
+May 12 12:16:12 10.71.57.0 u99678632 [10.71.57.0|get|1|6197|0|0|0|2f68656c702f6175746f2f656173792d6175746f636f6d706c6574652e7468656d65732e637373|]
+May 12 12:16:12 10.71.57.0 u99678632 close "/help/auto/easy-autocomplete.min.css" bytes read 8236 written 0
+May 12 12:16:12 10.71.57.0 u99678632 [10.71.57.0|get|1|8236|0|0|0|2f68656c702f6175746f2f656173792d6175746f636f6d706c6574652e6d696e2e637373|]
+May 12 12:16:12 10.71.57.0 u99678632 open "/help/auto/easy-autocomplete.css" flags READ mode 0666
+May 12 12:16:12 10.71.57.0 u99678632 close "/help/auto/easy-autocomplete.css" bytes read 9597 written 0
+May 12 12:16:12 10.71.57.0 u99678632 [10.71.57.0|get|0|9597|0|0|0|2f68656c702f6175746f2f656173792d6175746f636f6d706c6574652e637373|]
+May 12 12:16:12 10.71.57.0 u99678632 open "/help/auto/maps/easy-autocomplete.themes.min.css.map" flags READ mode 0666
+May 12 12:16:12 10.71.57.0 u99678632 open "/help/auto/maps/easy-autocomplete.themes.css.map" flags READ mode 0666
+May 12 12:16:13 10.71.57.0 u99678632 close "/help/auto/maps/easy-autocomplete.themes.min.css.map" bytes read 3121 written 0
+May 12 12:16:13 10.71.57.0 u99678632 [10.71.57.0|get|1|3121|0|0|0|2f68656c702f6175746f2f6d6170732f656173792d6175746f636f6d706c6574652e7468656d65732e6d696e2e6373732e6d6170|]
+May 12 12:16:13 10.71.57.0 u99678632 close "/help/auto/maps/easy-autocomplete.themes.css.map" bytes read 3228 written 0
+May 12 12:16:13 10.71.57.0 u99678632 [10.71.57.0|get|1|3228|0|0|0|2f68656c702f6175746f2f6d6170732f656173792d6175746f636f6d706c6574652e7468656d65732e6373732e6d6170|]
+May 12 12:16:13 10.71.57.0 u99678632 open "/help/auto/maps/easy-autocomplete.min.css.map" flags READ mode 0666
+May 12 12:16:13 10.71.57.0 u99678632 open "/help/auto/maps/easy-autocomplete.css.map" flags READ mode 0666
+May 12 12:16:14 10.71.57.0 u99678632 close "/help/auto/maps/easy-autocomplete.min.css.map" bytes read 4587 written 0
+May 12 12:16:14 10.71.57.0 u99678632 [10.71.57.0|get|1|4587|0|0|0|2f68656c702f6175746f2f6d6170732f656173792d6175746f636f6d706c6574652e6d696e2e6373732e6d6170|]
+May 12 12:16:14 10.71.57.0 u99678632 open "/how-it-works/index.php" flags READ mode 0666
+May 12 12:16:14 10.71.57.0 u99678632 close "/how-it-works/index.php" bytes read 7090 written 0
+May 12 12:16:14 10.71.57.0 u99678632 [10.71.57.0|get|0|7090|0|0|0|2f686f772d69742d776f726b732f696e6465782e706870|]
+May 12 12:16:15 10.71.57.0 u99678632 open "/how-it-works/main.css" flags READ mode 0666
+May 12 12:16:15 10.71.57.0 u99678632 close "/how-it-works/main.css" bytes read 535 written 0
+May 12 12:16:15 10.71.57.0 u99678632 [10.71.57.0|get|0|535|0|0|0|2f686f772d69742d776f726b732f6d61696e2e637373|]
+May 12 12:16:15 10.71.57.0 u99678632 open "/includes/navbar.php" flags READ mode 0666
+May 12 12:16:15 10.71.57.0 u99678632 close "/help/auto/maps/easy-autocomplete.css.map" bytes read 4664 written 0
+May 12 12:16:15 10.71.57.0 u99678632 [10.71.57.0|get|2|4664|0|0|0|2f68656c702f6175746f2f6d6170732f656173792d6175746f636f6d706c6574652e6373732e6d6170|]
+May 12 12:16:15 10.71.57.0 u99678632 open "/includes/lower-action.php" flags READ mode 0666
+May 12 12:16:15 10.71.57.0 u99678632 close "/includes/navbar.php" bytes read 2376 written 0
+May 12 12:16:15 10.71.57.0 u99678632 [10.71.57.0|get|0|2376|0|0|0|2f696e636c756465732f6e61766261722e706870|]
+May 12 12:16:15 10.71.57.0 u99678632 close "/includes/lower-action.php" bytes read 3645 written 0
+May 12 12:16:15 10.71.57.0 u99678632 [10.71.57.0|get|0|3645|0|0|0|2f696e636c756465732f6c6f7765722d616374696f6e2e706870|]
+May 12 12:16:16 10.71.57.0 u99678632 open "/includes/form-fix.php" flags READ mode 0666
+May 12 12:16:16 10.71.57.0 u99678632 open "/includes/footer.php" flags READ mode 0666
+May 12 12:16:16 10.71.57.0 u99678632 close "/includes/form-fix.php" bytes read 5237 written 0
+May 12 12:16:16 10.71.57.0 u99678632 [10.71.57.0|get|0|5237|0|0|0|2f696e636c756465732f666f726d2d6669782e706870|]
+May 12 12:16:16 10.71.57.0 u99678632 open "/join/index.php" flags READ mode 0666
+May 12 12:16:16 10.71.57.0 u99678632 close "/includes/footer.php" bytes read 4875 written 0
+May 12 12:16:16 10.71.57.0 u99678632 [10.71.57.0|get|0|4875|0|0|0|2f696e636c756465732f666f6f7465722e706870|]
+May 12 12:16:16 10.71.57.0 u99678632 close "/join/index.php" bytes read 11652 written 0
+May 12 12:16:16 10.71.57.0 u99678632 [10.71.57.0|get|0|11652|0|0|0|2f6a6f696e2f696e6465782e706870|]
+May 12 12:16:16 10.71.57.0 u99678632 open "/join/main.css" flags READ mode 0666
+May 12 12:16:17 10.71.57.0 u99678632 close "/join/main.css" bytes read 2373 written 0
+May 12 12:16:17 10.71.57.0 u99678632 [10.71.57.0|get|1|2373|0|0|0|2f6a6f696e2f6d61696e2e637373|]
+May 12 12:16:17 10.71.57.0 u99678632 open "/logs/access.log.16.gz" flags READ mode 0666
+May 12 12:16:17 10.71.57.0 u99678632 open "/logs/access.log.19.4.gz" flags READ mode 0666
+May 12 12:16:17 10.71.57.0 u99678632 close "/logs/access.log.16.gz" bytes read 75803 written 0
+May 12 12:16:17 10.71.57.0 u99678632 [10.71.57.0|get|0|75803|0|0|0|2f6c6f67732f6163636573732e6c6f672e31362e677a|]
+May 12 12:16:17 10.71.57.0 u99678632 close "/logs/access.log.19.4.gz" bytes read 3957 written 0
+May 12 12:16:17 10.71.57.0 u99678632 [10.71.57.0|get|0|3957|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e342e677a|]
+May 12 12:16:17 10.71.57.0 u99678632 open "/logs/sftp.log.14.gz" flags READ mode 0666
+May 12 12:16:17 10.71.57.0 u99678632 open "/logs/access.log.12.gz" flags READ mode 0666
+May 12 12:16:18 10.71.57.0 u99678632 close "/logs/sftp.log.14.gz" bytes read 1576 written 0
+May 12 12:16:18 10.71.57.0 u99678632 [10.71.57.0|get|1|1576|0|0|0|2f6c6f67732f736674702e6c6f672e31342e677a|]
+May 12 12:16:18 10.71.57.0 u99678632 open "/logs/sftp.log.19.gz" flags READ mode 0666
+May 12 12:16:18 10.71.57.0 u99678632 close "/logs/access.log.12.gz" bytes read 50591 written 0
+May 12 12:16:18 10.71.57.0 u99678632 [10.71.57.0|get|1|50591|0|0|0|2f6c6f67732f6163636573732e6c6f672e31322e677a|]
+May 12 12:16:18 10.71.57.0 u99678632 open "/logs/access.log.14.gz" flags READ mode 0666
+May 12 12:16:18 10.71.57.0 u99678632 close "/logs/sftp.log.19.gz" bytes read 144577 written 0
+May 12 12:16:18 10.71.57.0 u99678632 [10.71.57.0|get|0|144577|0|0|0|2f6c6f67732f736674702e6c6f672e31392e677a|]
+May 12 12:16:19 10.71.57.0 u99678632 open "/logs/access.log.20.1.gz" flags READ mode 0666
+May 12 12:16:19 10.71.57.0 u99678632 close "/logs/access.log.14.gz" bytes read 312791 written 0
+May 12 12:16:19 10.71.57.0 u99678632 [10.71.57.0|get|1|312791|0|0|0|2f6c6f67732f6163636573732e6c6f672e31342e677a|]
+May 12 12:16:19 10.71.57.0 u99678632 open "/logs/sftp.log.12.gz" flags READ mode 0666
+May 12 12:16:19 10.71.57.0 u99678632 close "/logs/access.log.20.1.gz" bytes read 15662 written 0
+May 12 12:16:19 10.71.57.0 u99678632 [10.71.57.0|get|0|15662|0|0|0|2f6c6f67732f6163636573732e6c6f672e32302e312e677a|]
+May 12 12:16:19 10.71.57.0 u99678632 close "/logs/sftp.log.12.gz" bytes read 2017 written 0
+May 12 12:16:19 10.71.57.0 u99678632 [10.71.57.0|get|0|2017|0|0|0|2f6c6f67732f736674702e6c6f672e31322e677a|]
+May 12 12:16:20 10.71.57.0 u99678632 open "/logs/access.log.20.2" flags READ mode 0666
+May 12 12:16:20 10.71.57.0 u99678632 open "/logs/sftp.log" flags READ mode 0666

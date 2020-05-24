@@ -1,0 +1,10 @@
+/*
+    profile.php
+*/
+
+.edit-button {
+    float: right;
+    background-color: transparent;
+    border: none;
+    color: green;
+}

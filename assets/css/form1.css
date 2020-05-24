@@ -1,0 +1,396 @@
+.supplier-container {
+    margin-bottom: 20px;
+}
+
+.supplier-image {
+    background-color: #ffffff;
+    height: 100px;
+    padding: 4%;
+    border-radius: 8px;
+    width: 100%;
+    border-color: #f7f7f7;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.supplier-image:hover {
+    border-color: #ff0a9a;
+    background-color: white;
+}
+
+@media (max-width: 575.98px) {
+.form-container {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+}
+
+
+input.button-outline:checked+label { 
+    border-color: #ff0a9a;
+    background-color: white;
+}
+
+
+.supplier-image div {     
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+}
+
+
+
+#plan-or {
+    font-family: oscine, sans-serif; 	
+    font-weight: 400; 	
+    font-style: normal;
+    font-size: 18px;
+}
+
+
+
+
+#plan-circle {
+    font-size: 0.8rem;
+}
+
+
+
+#not-sure-button {
+    margin-top: -2.8%;
+}
+
+#not-sure-button span {
+    font-size: 1rem;
+}
+
+
+
+@media (max-width: 575.98px) {
+    
+    #search-content {
+        top: 3rem !Important;
+    }
+    
+    #plan-or {
+        	font-family: oscine, sans-serif; 	font-weight: 400; 	font-style: normal;
+        font-size: 20px;
+    }
+    
+    #plan-circle {
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-top: 0px !Important;
+    }
+    
+    #plan-circle .round-button-circle {
+        font-size: 15px !Important;
+    }
+    
+    .form-container {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    
+    .remove-padding-mb {
+        padding-left: 0px;
+    }
+    
+    .form-inner-question {
+        margin-top: 20px;
+    }
+    
+    #search-body {
+        margin-top: 0px !Important;
+    }
+      
+}
+
+
+@media (min-width: 576px) and (max-width: 768.98px) {
+    
+    #plan-circle {
+        margin-top: -3%;
+        font-size: 13px;
+    }
+    
+    #plan-or {
+        font-size: 24px;
+    }
+
+    #not-sure-button {
+        margin-top: -25% !Important;
+    }
+
+    #not-sure-button span {
+        font-size: 0.8rem !Important;
+    }
+
+          
+}
+
+
+@media (min-width: 768.99px) and (max-width: 991.98px) {
+    
+    #plan-circle {
+        margin-top: -3%;
+    }
+    
+    #not-sure-button {
+        margin-top: 23%;
+    }
+
+    #not-sure-button span {
+        font-size: 0.8rem;
+    }
+    
+}
+
+
+
+@media (min-width: 991.99px) and (max-width: 1199.98px) { 
+    
+    #plan-or {
+        font-size: 24px;
+    }
+    
+    #plan-circle {
+        font-size: 14px;
+        margin-top: -3%;
+    }
+
+
+    #not-sure-button {
+        margin-top: -25%;
+    }
+
+
+    
+}
+
+@media (min-width: 1000px) {
+    #search-content {
+        top: 30px !Important;
+    }
+}
+
+@media (min-width: 1199.99px) {
+
+    #plan-or p {
+        margin-top: 3px;
+        font-size: 1.4rem;
+    }
+    
+
+
+    #not-sure-button {
+        margin-top: -22%;
+    }
+
+    #not-sure-button span {
+        font-size: 1.5rem;
+        margin-top: -12px;
+    }
+
+    .form-check {
+        padding-left: 20px !Important;
+    }
+    
+    .not-sure {
+        margin-top: -27px;
+    }
+    
+     
+}
+
+
+.form-inner-question {
+    font-weight: 400 !Important;
+}
+
+.no-margin-form {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#label-electricity-economy {
+    padding-left: 0px;
+    margin-top: -12px;
+    font-size: 0.8rem;
+}
+
+.spinner-border {
+    z-index: 99;
+    margin: auto;
+    width: 55px;
+    height: 55px;
+    color: #ff0a9a!important;
+}
+
+
+.loading {
+    background-color: #e6e6e67d;
+    position: fixed;
+    z-index: 99;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+
+
+.fa-top-icons {
+    font-size: 4rem; 
+}
+
+
+body {
+    background-color:#f7f7f7;
+    height: 100vh;
+}
+
+.usage-text {
+    margin-bottom: 0px;
+    font-family: oscine;
+    font-weight: 400;
+}
+
+.input-group-border-left {
+    background-color: white;
+    border-color: #f7f7f7 !Important;
+    border-left-style: solid;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-right-style: none;
+    border-width: 3px !Important;
+    padding-left: 25px !Important;
+}
+
+.input-group-border-right {
+    background-color: white;
+    border-color: #f7f7f7 !Important;
+    border-right-style: solid;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-left-style: none;
+    border-width: 3px !Important;
+}
+
+
+.input-no-border-left {
+    border-left: none !important;
+}
+
+.input-no-border-right {
+    border-right: none !important;
+}
+
+.input-group-text {
+    font-weight: 700;
+}
+
+
+.confirm-switch-control {
+    padding-left: 0px !Important;
+    padding-right: 0px !Important;
+    padding-top: 0px !Important;
+    background-color: transparent !Important;
+    text-align: center;
+}
+
+
+#quote_step_one_submit {
+    max-width: 200px;
+    border-radius: 25px;
+}
+
+#search-content {
+    background-color: transparent;
+    position: absolute;
+    top: 0;
+}
+
+#search-body {
+    min-height: 300px;
+}
+
+#search-text {
+    font-family: oscine;
+    font-weight: 800;
+    color: #ff109a;
+    text-align: center;
+    font-size: 2rem;
+}
+
+#search-body img {
+    margin-top: 40px
+}
+
+#search-modal {
+    background-color: #f4f6fb;
+    padding-right: 0px !Important;
+}
+
+.modal-content {
+    border: none;
+}
+
+
+.img-holder {
+    height: 150px;
+    margin: auto;
+    margin-bottom: 200px;
+    background-color: transparent;
+    margin-top: 30px;
+}
+
+
+#rotator {
+    max-width: 50%;
+}
+
+#dots {
+    position: absolute;
+}
+
+
+
+
+#quote_step_one_submit:not(:disabled):not(.disabled).active, #quote_step_one_submit:not(:disabled):not(.disabled):active, .show>#quote_step_one_submit.dropdown-toggle {
+    color: white !Important;
+    border: none !Important;
+    background-color: black !Important;
+}
+
+
+
+
+.spinner-border {
+    border-top-color: #ff109a;
+    border-top-style: solid;
+    border-top-width: 0.45em;
+    border-right-color: transparent;
+    border-right-style: solid;
+    border-right-width: 0.45em;
+    border-bottom-color: #ff109a;
+    border-bottom-style: solid;
+    border-bottom-width: 0.45em;
+    border-left-color: #ff109a;
+    border-left-style: solid;
+    border-left-width: 0.45em;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+}
+
+@media screen and (max-width: 800px) and (min-width: 600px) {
+    
+    #search-content {
+        top: 1rem;
+    }
+}
+

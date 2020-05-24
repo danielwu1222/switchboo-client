@@ -1,0 +1,38 @@
+body {
+    height: 100vh;
+    background-color: #f4f6fb;
+    font-family: oscine;
+}
+
+.question-title h2 {
+    font-weight: 800;
+    color: #454140;
+}
+
+
+#footer-email {
+    color: #ff0c99;
+    font-family: oscine, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 1rem;
+}
+
+
+.question-body h6, .question-footer h6 {
+    font-weight: 500;
+    font-size: 1rem;
+    margin-top: 30px;
+}
+
+
+#form-container {
+    background-color: ##f4f6fb !Important;
+    padding-top: 35px;
+    padding-bottom: 150px;
+}
+
+
+#form-control {
+    background-color: transparent !Important;
+}
